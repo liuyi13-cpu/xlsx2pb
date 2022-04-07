@@ -1,0 +1,8 @@
+check_label_array {
+    check_label: "物品"
+    check_string: "ref {table:\"res_item\" field:\"物品ID\"}"
+}
+check_label_array {
+    check_label: "资源"
+    check_string: "ref {table:\"res_sprite\" field:\"资源名字\"} empty_skip:true"
+}

@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+import "tsv2pb.proto";
+import "keywords.proto";
+package RES;
+
+enum kBlockType {
+    kBLOCK_BIND_NONE = 0 [(name) = ""];
+    kBLOCK_TYPE_NORMAL = 1 [(name) = "Normal"];
+}
+
+enum kBlockBindType {
+    kBLOCK_BIND_TYPE_NONE = 0 [(name) = ""];
+    kBLOCK_BIND_TYPE_DROP = 2 [(name) = "Drop"];
+    kBLOCK_BIND_TYPE_PLANT = 3 [(name) = "Plant"];
+    kBLOCK_BIND_TYPE_SOLDIER = 4 [(name) = "Soldier"];
+    kBLOCK_BIND_TYPE_BUILDING = 5 [(name) = "Building"];
+    kBLOCK_BIND_TYPE_PROP = 6 [(name) = "Prop"];
+}

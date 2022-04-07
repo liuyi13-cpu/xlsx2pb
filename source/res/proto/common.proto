@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+import "tsv2pb.proto";
+
+package RES;
+
+message ResTest {
+	option (mapping) = "test#test";
+	int32 id = 1 [(field) = "id"];
+	int32 int_value = 2 [(field) = "int_value"];
+	uint32 uint_value = 3 [(field) = "uint_value"];
+	int64 long_value = 4 [(field) = "long_value"];
+	uint64 ulong_value = 5 [(field) = "ulong_value"];
+	bool bool_value = 6 [(field) = "bool_value"];
+	ResItemType enum_value = 7 [(field) = "enum_value"];
+	float float_value = 8 [(field) = "float_value"];
+	double double_value = 9 [(field) = "double_value"];
+	string string_value = 10 [(field) = "string_value"];
+    
+	repeated string repeat_string_value = 11 [(field) = "repeat_string_value"];
+    
+	ResSubItem item = 12 [(field) = "道具"];
+	repeated ResSubItem items = 13 [(field) = "道具组"];
+}
+message ResTestArray {
+	repeated ResTest items = 1;
+}
+
+// 枚举支持
+enum ResItemType {
+    ResItemType_invalid = 0;
+    ResItemType_gold = 1 [(name) = "金币"];
+    ResItemType_diamond = 2 [(name) = "钻石"];
+}
+
+// 子消息支持
+message ResSubItem {
+	int32 id = 1 [(field) = "id"];
+	int32 type = 2 [(field) = "类型"];
+	int32 count = 3 [(field) = "数量"];
+}

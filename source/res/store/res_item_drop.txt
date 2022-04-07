@@ -1,0 +1,1490 @@
+items {
+  id: 1
+  dropType: 1
+  rewardProbability1: 40
+  reward1_list {
+    weight: 20
+    type: ItemType_diamond
+    proportion: 270
+  }
+  reward1_list {
+    weight: 80
+    type: ItemType_coin
+    proportion: 648
+  }
+}
+items {
+  id: 2
+  dropType: 1
+  rewardProbability1: 40
+  reward1_list {
+    weight: 20
+    type: ItemType_diamond
+    proportion: 302
+  }
+  reward1_list {
+    weight: 80
+    type: ItemType_coin
+    proportion: 724
+  }
+}
+items {
+  id: 3
+  dropType: 1
+  rewardProbability1: 40
+  reward1_list {
+    weight: 20
+    type: ItemType_diamond
+    proportion: 242
+  }
+  reward1_list {
+    weight: 80
+    type: ItemType_coin
+    proportion: 484
+  }
+}
+items {
+  id: 4
+  dropType: 1
+  rewardProbability1: 40
+  reward1_list {
+    weight: 20
+    type: ItemType_diamond
+    proportion: 213
+  }
+  reward1_list {
+    weight: 80
+    type: ItemType_coin
+    proportion: 328
+  }
+}
+items {
+  id: 5
+  dropType: 1
+  rewardProbability1: 40
+  reward1_list {
+    weight: 20
+    type: ItemType_diamond
+    proportion: 173
+  }
+  reward1_list {
+    weight: 80
+    type: ItemType_coin
+    proportion: 242
+  }
+}
+items {
+  id: 6
+  dropType: 1
+  rewardProbability1: 40
+  reward1_list {
+    weight: 20
+    type: ItemType_diamond
+    proportion: 182
+  }
+  reward1_list {
+    weight: 80
+    type: ItemType_coin
+    proportion: 255
+  }
+}
+items {
+  id: 7
+  dropType: 1
+  rewardProbability1: 40
+  reward1_list {
+    weight: 20
+    type: ItemType_diamond
+    proportion: 152
+  }
+  reward1_list {
+    weight: 80
+    type: ItemType_coin
+    proportion: 213
+  }
+}
+items {
+  id: 8
+  dropType: 1
+  rewardProbability1: 40
+  reward1_list {
+    weight: 20
+    type: ItemType_diamond
+    proportion: 123
+  }
+  reward1_list {
+    weight: 80
+    type: ItemType_coin
+    proportion: 152
+  }
+}
+items {
+  id: 9
+  dropType: 1
+  rewardProbability1: 40
+  reward1_list {
+    weight: 20
+    type: ItemType_diamond
+    proportion: 127
+  }
+  reward1_list {
+    weight: 80
+    type: ItemType_coin
+    proportion: 157
+  }
+}
+items {
+  id: 10
+  dropType: 1
+  rewardProbability1: 40
+  reward1_list {
+    weight: 20
+    type: ItemType_diamond
+    proportion: 117
+  }
+  reward1_list {
+    weight: 80
+    type: ItemType_coin
+    proportion: 161
+  }
+}
+items {
+  id: 1011
+  dropType: 2
+  sellExp: 100
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 108
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_coin
+    proportion: 108
+  }
+}
+items {
+  id: 1012
+  dropType: 2
+  sellExp: 200
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 121
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_coin
+    proportion: 121
+  }
+}
+items {
+  id: 1013
+  dropType: 2
+  sellExp: 300
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 97
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_coin
+    proportion: 97
+  }
+}
+items {
+  id: 1014
+  dropType: 2
+  sellExp: 400
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 85
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_coin
+    proportion: 85
+  }
+}
+items {
+  id: 1015
+  dropType: 2
+  sellExp: 500
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 69
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_coin
+    proportion: 69
+  }
+}
+items {
+  id: 1016
+  dropType: 2
+  sellExp: 600
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 73
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_coin
+    proportion: 73
+  }
+}
+items {
+  id: 1017
+  dropType: 2
+  sellExp: 700
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 61
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_coin
+    proportion: 61
+  }
+}
+items {
+  id: 1018
+  dropType: 2
+  sellExp: 800
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 49
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_coin
+    proportion: 49
+  }
+}
+items {
+  id: 1019
+  dropType: 2
+  sellExp: 900
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 51
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_coin
+    proportion: 51
+  }
+}
+items {
+  id: 1020
+  dropType: 2
+  sellExp: 1000
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 47
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_coin
+    proportion: 47
+  }
+}
+items {
+  id: 1021
+  dropType: 2
+  sellExp: 100
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 146
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 146
+  }
+}
+items {
+  id: 1022
+  dropType: 2
+  sellExp: 200
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 163
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 163
+  }
+}
+items {
+  id: 1023
+  dropType: 2
+  sellExp: 300
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 131
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 131
+  }
+}
+items {
+  id: 1024
+  dropType: 2
+  sellExp: 400
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 115
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 115
+  }
+}
+items {
+  id: 1025
+  dropType: 2
+  sellExp: 500
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 93
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 93
+  }
+}
+items {
+  id: 1026
+  dropType: 2
+  sellExp: 600
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 98
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 98
+  }
+}
+items {
+  id: 1027
+  dropType: 2
+  sellExp: 700
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 82
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 82
+  }
+}
+items {
+  id: 1028
+  dropType: 2
+  sellExp: 800
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 66
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 66
+  }
+}
+items {
+  id: 1029
+  dropType: 2
+  sellExp: 900
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 68
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 68
+  }
+}
+items {
+  id: 1030
+  dropType: 2
+  sellExp: 1000
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 63
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 63
+  }
+}
+items {
+  id: 1031
+  dropType: 2
+  sellExp: 100
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 153
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 153
+  }
+}
+items {
+  id: 1032
+  dropType: 2
+  sellExp: 200
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 171
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 171
+  }
+}
+items {
+  id: 1033
+  dropType: 2
+  sellExp: 300
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 137
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 137
+  }
+}
+items {
+  id: 1034
+  dropType: 2
+  sellExp: 400
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 121
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 121
+  }
+}
+items {
+  id: 1035
+  dropType: 2
+  sellExp: 500
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 98
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 98
+  }
+}
+items {
+  id: 1036
+  dropType: 2
+  sellExp: 600
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 103
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 103
+  }
+}
+items {
+  id: 1037
+  dropType: 2
+  sellExp: 700
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 86
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 86
+  }
+}
+items {
+  id: 1038
+  dropType: 2
+  sellExp: 800
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 70
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 70
+  }
+}
+items {
+  id: 1039
+  dropType: 2
+  sellExp: 900
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 72
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 72
+  }
+}
+items {
+  id: 1040
+  dropType: 2
+  sellExp: 1000
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 66
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 66
+  }
+}
+items {
+  id: 1041
+  dropType: 2
+  sellExp: 100
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 177
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 177
+  }
+}
+items {
+  id: 1042
+  dropType: 2
+  sellExp: 200
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 198
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 198
+  }
+}
+items {
+  id: 1043
+  dropType: 2
+  sellExp: 300
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 159
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 159
+  }
+}
+items {
+  id: 1044
+  dropType: 2
+  sellExp: 400
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 140
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 140
+  }
+}
+items {
+  id: 1045
+  dropType: 2
+  sellExp: 500
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 113
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 113
+  }
+}
+items {
+  id: 1046
+  dropType: 2
+  sellExp: 600
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 120
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 120
+  }
+}
+items {
+  id: 1047
+  dropType: 2
+  sellExp: 700
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 100
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 100
+  }
+}
+items {
+  id: 1048
+  dropType: 2
+  sellExp: 800
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 81
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 81
+  }
+}
+items {
+  id: 1049
+  dropType: 2
+  sellExp: 900
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 83
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 83
+  }
+}
+items {
+  id: 1050
+  dropType: 2
+  sellExp: 1000
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 76
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 76
+  }
+}
+items {
+  id: 3011
+  dropType: 3
+  sellExp: 100
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 90
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 39
+  }
+}
+items {
+  id: 3012
+  dropType: 3
+  sellExp: 200
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 101
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 85
+  }
+}
+items {
+  id: 3013
+  dropType: 3
+  sellExp: 300
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 126
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 81
+  }
+}
+items {
+  id: 3014
+  dropType: 3
+  sellExp: 400
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 58
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 54
+  }
+}
+items {
+  id: 3015
+  dropType: 3
+  sellExp: 500
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 63
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 62
+  }
+}
+items {
+  id: 3016
+  dropType: 3
+  sellExp: 600
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 50
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 85
+  }
+}
+items {
+  id: 3017
+  dropType: 3
+  sellExp: 700
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 26
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 39
+  }
+}
+items {
+  id: 3018
+  dropType: 3
+  sellExp: 800
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 25
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 40
+  }
+}
+items {
+  id: 3019
+  dropType: 3
+  sellExp: 900
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 24
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 47
+  }
+}
+items {
+  id: 3020
+  dropType: 3
+  sellExp: 1000
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 16
+  }
+  reward2 {
+    weight: 100
+    type: ItemType_diamond
+    proportion: 28
+  }
+}
+items {
+  id: 3021
+  dropType: 3
+  sellExp: 100
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 191
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 44
+  }
+}
+items {
+  id: 3022
+  dropType: 3
+  sellExp: 200
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 292
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 68
+  }
+}
+items {
+  id: 3023
+  dropType: 3
+  sellExp: 300
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 407
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 71
+  }
+}
+items {
+  id: 3024
+  dropType: 3
+  sellExp: 400
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 198
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 55
+  }
+}
+items {
+  id: 3025
+  dropType: 3
+  sellExp: 500
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 172
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 62
+  }
+}
+items {
+  id: 3026
+  dropType: 3
+  sellExp: 600
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 183
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 66
+  }
+}
+items {
+  id: 3027
+  dropType: 3
+  sellExp: 700
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 97
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 39
+  }
+}
+items {
+  id: 3028
+  dropType: 3
+  sellExp: 800
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 97
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 39
+  }
+}
+items {
+  id: 3029
+  dropType: 3
+  sellExp: 900
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 95
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 38
+  }
+}
+items {
+  id: 3030
+  dropType: 3
+  sellExp: 1000
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 63
+  }
+  rewardProbability2: 20
+  reward2 {
+    weight: 100
+    type: ItemType_exp
+    proportion: 28
+  }
+}
+items {
+  id: 3031
+  dropType: 3
+  sellExp: 100
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 421
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 49
+  }
+}
+items {
+  id: 3032
+  dropType: 3
+  sellExp: 200
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 583
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 51
+  }
+}
+items {
+  id: 3033
+  dropType: 3
+  sellExp: 300
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 441
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 61
+  }
+}
+items {
+  id: 3034
+  dropType: 3
+  sellExp: 400
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 309
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 56
+  }
+}
+items {
+  id: 3035
+  dropType: 3
+  sellExp: 500
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 345
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 62
+  }
+}
+items {
+  id: 3036
+  dropType: 3
+  sellExp: 600
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 238
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 47
+  }
+}
+items {
+  id: 3037
+  dropType: 3
+  sellExp: 700
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 194
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 39
+  }
+}
+items {
+  id: 3038
+  dropType: 3
+  sellExp: 800
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 193
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 38
+  }
+}
+items {
+  id: 3039
+  dropType: 3
+  sellExp: 900
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 129
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 29
+  }
+}
+items {
+  id: 3040
+  dropType: 3
+  sellExp: 1000
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 123
+  }
+  rewardProbability2: 40
+  reward2 {
+    weight: 100
+    type: ItemType_enenry
+    proportion: 28
+  }
+}
+items {
+  id: 3041
+  dropType: 3
+  sellExp: 100
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 605
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 35
+  }
+}
+items {
+  id: 3042
+  dropType: 3
+  sellExp: 200
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 470
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 44
+  }
+}
+items {
+  id: 3043
+  dropType: 3
+  sellExp: 300
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 664
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 62
+  }
+}
+items {
+  id: 3044
+  dropType: 3
+  sellExp: 400
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 464
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 56
+  }
+}
+items {
+  id: 3045
+  dropType: 3
+  sellExp: 500
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 336
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 44
+  }
+}
+items {
+  id: 3046
+  dropType: 3
+  sellExp: 600
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 356
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 47
+  }
+}
+items {
+  id: 3047
+  dropType: 3
+  sellExp: 700
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 290
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 38
+  }
+}
+items {
+  id: 3048
+  dropType: 3
+  sellExp: 800
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 198
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 30
+  }
+}
+items {
+  id: 3049
+  dropType: 3
+  sellExp: 900
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 192
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 29
+  }
+}
+items {
+  id: 3050
+  dropType: 3
+  sellExp: 1000
+  rewardProbability1: 100
+  reward1_list {
+    weight: 100
+    type: ItemType_coin
+    proportion: 182
+  }
+  rewardProbability2: 60
+  reward2 {
+    weight: 100
+    type: ItemType_achievement_point
+    proportion: 25
+  }
+}

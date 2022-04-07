@@ -1,0 +1,560 @@
+items {
+  id: 1011
+  type: 2
+  typeId: 101
+  drop_array: 1011
+  drop_count_array: 1
+}
+items {
+  id: 1012
+  type: 2
+  typeId: 101
+  drop_array: 1012
+  drop_count_array: 1
+}
+items {
+  id: 1013
+  type: 2
+  typeId: 101
+  drop_array: 1013
+  drop_count_array: 1
+}
+items {
+  id: 1014
+  type: 2
+  typeId: 101
+  drop_array: 1014
+  drop_count_array: 1
+}
+items {
+  id: 1015
+  type: 2
+  typeId: 101
+  drop_array: 1015
+  drop_count_array: 1
+}
+items {
+  id: 1016
+  type: 2
+  typeId: 101
+  drop_array: 1016
+  drop_count_array: 1
+}
+items {
+  id: 1017
+  type: 2
+  typeId: 101
+  drop_array: 1017
+  drop_count_array: 1
+}
+items {
+  id: 1018
+  type: 2
+  typeId: 101
+  drop_array: 1018
+  drop_count_array: 1
+}
+items {
+  id: 1019
+  type: 2
+  typeId: 101
+  drop_array: 1019
+  drop_count_array: 1
+}
+items {
+  id: 1020
+  type: 2
+  typeId: 101
+  drop_array: 1020
+  drop_count_array: 1
+}
+items {
+  id: 1021
+  type: 2
+  typeId: 102
+  drop_array: 1021
+  drop_count_array: 1
+}
+items {
+  id: 1022
+  type: 2
+  typeId: 102
+  drop_array: 1022
+  drop_count_array: 1
+}
+items {
+  id: 1023
+  type: 2
+  typeId: 102
+  drop_array: 1023
+  drop_count_array: 1
+}
+items {
+  id: 1024
+  type: 2
+  typeId: 102
+  drop_array: 1024
+  drop_count_array: 1
+}
+items {
+  id: 1025
+  type: 2
+  typeId: 102
+  drop_array: 1025
+  drop_count_array: 1
+}
+items {
+  id: 1026
+  type: 2
+  typeId: 102
+  drop_array: 1026
+  drop_count_array: 1
+}
+items {
+  id: 1027
+  type: 2
+  typeId: 102
+  drop_array: 1027
+  drop_count_array: 1
+}
+items {
+  id: 1028
+  type: 2
+  typeId: 102
+  drop_array: 1028
+  drop_count_array: 1
+}
+items {
+  id: 1029
+  type: 2
+  typeId: 102
+  drop_array: 1029
+  drop_count_array: 1
+}
+items {
+  id: 1030
+  type: 2
+  typeId: 102
+  drop_array: 1030
+  drop_count_array: 1
+}
+items {
+  id: 1031
+  type: 2
+  typeId: 103
+  drop_array: 1031
+  drop_count_array: 1
+}
+items {
+  id: 1032
+  type: 2
+  typeId: 103
+  drop_array: 1032
+  drop_count_array: 1
+}
+items {
+  id: 1033
+  type: 2
+  typeId: 103
+  drop_array: 1033
+  drop_count_array: 1
+}
+items {
+  id: 1034
+  type: 2
+  typeId: 103
+  drop_array: 1034
+  drop_count_array: 1
+}
+items {
+  id: 1035
+  type: 2
+  typeId: 103
+  drop_array: 1035
+  drop_count_array: 1
+}
+items {
+  id: 1036
+  type: 2
+  typeId: 103
+  drop_array: 1036
+  drop_count_array: 1
+}
+items {
+  id: 1037
+  type: 2
+  typeId: 103
+  drop_array: 1037
+  drop_count_array: 1
+}
+items {
+  id: 1038
+  type: 2
+  typeId: 103
+  drop_array: 1038
+  drop_count_array: 1
+}
+items {
+  id: 1039
+  type: 2
+  typeId: 103
+  drop_array: 1039
+  drop_count_array: 1
+}
+items {
+  id: 1040
+  type: 2
+  typeId: 103
+  drop_array: 1040
+  drop_count_array: 1
+}
+items {
+  id: 1041
+  type: 2
+  typeId: 104
+  drop_array: 1041
+  drop_count_array: 1
+}
+items {
+  id: 1042
+  type: 2
+  typeId: 104
+  drop_array: 1042
+  drop_count_array: 1
+}
+items {
+  id: 1043
+  type: 2
+  typeId: 104
+  drop_array: 1043
+  drop_count_array: 1
+}
+items {
+  id: 1044
+  type: 2
+  typeId: 104
+  drop_array: 1044
+  drop_count_array: 1
+}
+items {
+  id: 1045
+  type: 2
+  typeId: 104
+  drop_array: 1045
+  drop_count_array: 1
+}
+items {
+  id: 1046
+  type: 2
+  typeId: 104
+  drop_array: 1046
+  drop_count_array: 1
+}
+items {
+  id: 1047
+  type: 2
+  typeId: 104
+  drop_array: 1047
+  drop_count_array: 1
+}
+items {
+  id: 1048
+  type: 2
+  typeId: 104
+  drop_array: 1048
+  drop_count_array: 1
+}
+items {
+  id: 1049
+  type: 2
+  typeId: 104
+  drop_array: 1049
+  drop_count_array: 1
+}
+items {
+  id: 1050
+  type: 2
+  typeId: 104
+  drop_array: 1050
+  drop_count_array: 1
+}
+items {
+  id: 3011
+  type: 1
+  typeId: 201
+  drop_array: 3011
+  drop_count_array: 1
+}
+items {
+  id: 3012
+  type: 1
+  typeId: 201
+  drop_array: 3012
+  drop_count_array: 1
+}
+items {
+  id: 3013
+  type: 1
+  typeId: 201
+  drop_array: 3013
+  drop_count_array: 1
+}
+items {
+  id: 3014
+  type: 1
+  typeId: 201
+  drop_array: 3014
+  drop_count_array: 1
+}
+items {
+  id: 3015
+  type: 1
+  typeId: 201
+  drop_array: 3015
+  drop_count_array: 1
+}
+items {
+  id: 3016
+  type: 1
+  typeId: 201
+  drop_array: 3016
+  drop_count_array: 1
+}
+items {
+  id: 3017
+  type: 1
+  typeId: 201
+  drop_array: 3017
+  drop_count_array: 1
+}
+items {
+  id: 3018
+  type: 1
+  typeId: 201
+  drop_array: 3018
+  drop_count_array: 1
+}
+items {
+  id: 3019
+  type: 1
+  typeId: 201
+  drop_array: 3019
+  drop_count_array: 1
+}
+items {
+  id: 3020
+  type: 1
+  typeId: 201
+  drop_array: 3020
+  drop_count_array: 1
+}
+items {
+  id: 3021
+  type: 1
+  typeId: 202
+  drop_array: 3021
+  drop_count_array: 1
+}
+items {
+  id: 3022
+  type: 1
+  typeId: 202
+  drop_array: 3022
+  drop_count_array: 1
+}
+items {
+  id: 3023
+  type: 1
+  typeId: 202
+  drop_array: 3023
+  drop_count_array: 1
+}
+items {
+  id: 3024
+  type: 1
+  typeId: 202
+  drop_array: 3024
+  drop_count_array: 1
+}
+items {
+  id: 3025
+  type: 1
+  typeId: 202
+  drop_array: 3025
+  drop_count_array: 1
+}
+items {
+  id: 3026
+  type: 1
+  typeId: 202
+  drop_array: 3026
+  drop_count_array: 1
+}
+items {
+  id: 3027
+  type: 1
+  typeId: 202
+  drop_array: 3027
+  drop_count_array: 1
+}
+items {
+  id: 3028
+  type: 1
+  typeId: 202
+  drop_array: 3028
+  drop_count_array: 1
+}
+items {
+  id: 3029
+  type: 1
+  typeId: 202
+  drop_array: 3029
+  drop_count_array: 1
+}
+items {
+  id: 3030
+  type: 1
+  typeId: 202
+  drop_array: 3030
+  drop_count_array: 1
+}
+items {
+  id: 3031
+  type: 1
+  typeId: 203
+  drop_array: 3031
+  drop_count_array: 1
+}
+items {
+  id: 3032
+  type: 1
+  typeId: 203
+  drop_array: 3032
+  drop_count_array: 1
+}
+items {
+  id: 3033
+  type: 1
+  typeId: 203
+  drop_array: 3033
+  drop_count_array: 1
+}
+items {
+  id: 3034
+  type: 1
+  typeId: 203
+  drop_array: 3034
+  drop_count_array: 1
+}
+items {
+  id: 3035
+  type: 1
+  typeId: 203
+  drop_array: 3035
+  drop_count_array: 1
+}
+items {
+  id: 3036
+  type: 1
+  typeId: 203
+  drop_array: 3036
+  drop_count_array: 1
+}
+items {
+  id: 3037
+  type: 1
+  typeId: 203
+  drop_array: 3037
+  drop_count_array: 1
+}
+items {
+  id: 3038
+  type: 1
+  typeId: 203
+  drop_array: 3038
+  drop_count_array: 1
+}
+items {
+  id: 3039
+  type: 1
+  typeId: 203
+  drop_array: 3039
+  drop_count_array: 1
+}
+items {
+  id: 3040
+  type: 1
+  typeId: 203
+  drop_array: 3040
+  drop_count_array: 1
+}
+items {
+  id: 3041
+  type: 1
+  typeId: 204
+  drop_array: 3041
+  drop_count_array: 1
+}
+items {
+  id: 3042
+  type: 1
+  typeId: 204
+  drop_array: 3042
+  drop_count_array: 1
+}
+items {
+  id: 3043
+  type: 1
+  typeId: 204
+  drop_array: 3043
+  drop_count_array: 1
+}
+items {
+  id: 3044
+  type: 1
+  typeId: 204
+  drop_array: 3044
+  drop_count_array: 1
+}
+items {
+  id: 3045
+  type: 1
+  typeId: 204
+  drop_array: 3045
+  drop_count_array: 1
+}
+items {
+  id: 3046
+  type: 1
+  typeId: 204
+  drop_array: 3046
+  drop_count_array: 1
+}
+items {
+  id: 3047
+  type: 1
+  typeId: 204
+  drop_array: 3047
+  drop_count_array: 1
+}
+items {
+  id: 3048
+  type: 1
+  typeId: 204
+  drop_array: 3048
+  drop_count_array: 1
+}
+items {
+  id: 3049
+  type: 1
+  typeId: 204
+  drop_array: 3049
+  drop_count_array: 1
+}
+items {
+  id: 3050
+  type: 1
+  typeId: 204
+  drop_array: 3050
+  drop_count_array: 1
+}

@@ -1,0 +1,1296 @@
+items {
+  id: 1
+  name: "钞票"
+  icon: "com_pic_jinbi"
+  image: "com_pic_jinbi"
+  desc: "游戏币，可购买游戏内的道具"
+  type: 1
+}
+items {
+  id: 2
+  name: "钻石"
+  icon: "com_pic_zuanshi"
+  image: "com_pic_zuanshi"
+  desc: "充值获得，可购买游戏内道具"
+  type: 2
+}
+items {
+  id: 3
+  name: "经验"
+  icon: "icon_jingyan"
+  image: "icon_jingyan"
+  desc: "澡堂升级所需经验"
+  type: 3
+}
+items {
+  id: 4
+  name: "体力"
+  icon: "com_pic_nengliang"
+  image: "com_pic_nengliang"
+  desc: "招揽客人消耗体力"
+  type: 4
+}
+items {
+  id: 5
+  name: "成就点"
+  icon: "icon_chengjiu"
+  image: "icon_chengjiu"
+  desc: "成就点"
+  type: 5
+}
+items {
+  id: 6
+  name: "宠物经验"
+  icon: "com_pic_cwexp"
+  image: "com_pic_cwexp"
+  desc: "宠物升级所需经验"
+  type: 8
+}
+items {
+  id: 100
+  name: "钞票(大)"
+  icon: "gxhd_jinbi"
+  image: "gxhd_jinbi"
+  desc: "游戏币，可购买游戏内的道具"
+  type: 1
+}
+items {
+  id: 101
+  name: "小游戏人气"
+  icon: "whtd_pic_manyidu"
+  image: "whtd_pic_manyidu"
+  desc: "小游戏人气"
+  type: 101
+}
+items {
+  id: 2001
+  name: "普通技能点"
+  icon: "chengjiu_shop_9001"
+  image: "chengjiu_shop_9001"
+  desc: "普通技能点"
+  type: 11
+}
+items {
+  id: 2002
+  name: "高级技能点"
+  icon: "chengjiu_shop_9002"
+  image: "chengjiu_shop_9002"
+  desc: "高级技能点"
+  type: 11
+}
+items {
+  id: 2003
+  name: "特级技能点"
+  icon: "chengjiu_shop_9009"
+  image: "chengjiu_shop_9009"
+  desc: "特级技能点"
+  type: 11
+}
+items {
+  id: 3001
+  name: "收益翻倍"
+  icon: "gxhd_shouyi"
+  image: "gxhd_shouyi"
+  desc: "收益翻倍"
+  type: 12
+}
+items {
+  id: 1011
+  name: "锦鲤 Lv.1"
+  icon: "jiayuan_item_yu1"
+  image: "jiayuan_item_yu1"
+  desc: "售卖可获得钻石，有几率获得钞票，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1012
+  name: "锦鲤 Lv.2"
+  icon: "jiayuan_item_yu1"
+  image: "jiayuan_item_yu1"
+  desc: "售卖可获得钻石，有几率获得钞票，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1013
+  name: "锦鲤 Lv.3"
+  icon: "jiayuan_item_yu1"
+  image: "jiayuan_item_yu1"
+  desc: "售卖可获得钻石，有几率获得钞票，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1014
+  name: "锦鲤 Lv.4"
+  icon: "jiayuan_item_yu1"
+  image: "jiayuan_item_yu1"
+  desc: "售卖可获得钻石，有几率获得钞票，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1015
+  name: "锦鲤 Lv.5"
+  icon: "jiayuan_item_yu1"
+  image: "jiayuan_item_yu1"
+  desc: "售卖可获得钻石，有几率获得钞票，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1016
+  name: "锦鲤 Lv.6"
+  icon: "jiayuan_item_yu1"
+  image: "jiayuan_item_yu1"
+  desc: "售卖可获得钻石，有几率获得钞票，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1017
+  name: "锦鲤 Lv.7"
+  icon: "jiayuan_item_yu1"
+  image: "jiayuan_item_yu1"
+  desc: "售卖可获得钻石，有几率获得钞票，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1018
+  name: "锦鲤 Lv.8"
+  icon: "jiayuan_item_yu1"
+  image: "jiayuan_item_yu1"
+  desc: "售卖可获得钻石，有几率获得钞票，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1019
+  name: "锦鲤 Lv.9"
+  icon: "jiayuan_item_yu1"
+  image: "jiayuan_item_yu1"
+  desc: "售卖可获得钻石，有几率获得钞票，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1020
+  name: "锦鲤 Lv.10"
+  icon: "jiayuan_item_yu1"
+  image: "jiayuan_item_yu1"
+  desc: "售卖可获得钻石，有几率获得钞票，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1021
+  name: "螃蟹 Lv.1"
+  icon: "jiayuan_item_yu3"
+  image: "jiayuan_item_yu3"
+  desc: "售卖可获得钻石，有几率获得经验，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1022
+  name: "螃蟹 Lv.2"
+  icon: "jiayuan_item_yu3"
+  image: "jiayuan_item_yu3"
+  desc: "售卖可获得钻石，有几率获得经验，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1023
+  name: "螃蟹 Lv.3"
+  icon: "jiayuan_item_yu3"
+  image: "jiayuan_item_yu3"
+  desc: "售卖可获得钻石，有几率获得经验，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1024
+  name: "螃蟹 Lv.4"
+  icon: "jiayuan_item_yu3"
+  image: "jiayuan_item_yu3"
+  desc: "售卖可获得钻石，有几率获得经验，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1025
+  name: "螃蟹 Lv.5"
+  icon: "jiayuan_item_yu3"
+  image: "jiayuan_item_yu3"
+  desc: "售卖可获得钻石，有几率获得经验，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1026
+  name: "螃蟹 Lv.6"
+  icon: "jiayuan_item_yu3"
+  image: "jiayuan_item_yu3"
+  desc: "售卖可获得钻石，有几率获得经验，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1027
+  name: "螃蟹 Lv.7"
+  icon: "jiayuan_item_yu3"
+  image: "jiayuan_item_yu3"
+  desc: "售卖可获得钻石，有几率获得经验，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1028
+  name: "螃蟹 Lv.8"
+  icon: "jiayuan_item_yu3"
+  image: "jiayuan_item_yu3"
+  desc: "售卖可获得钻石，有几率获得经验，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1029
+  name: "螃蟹 Lv.9"
+  icon: "jiayuan_item_yu3"
+  image: "jiayuan_item_yu3"
+  desc: "售卖可获得钻石，有几率获得经验，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1030
+  name: "螃蟹 Lv.10"
+  icon: "jiayuan_item_yu3"
+  image: "jiayuan_item_yu3"
+  desc: "售卖可获得钻石，有几率获得经验，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1031
+  name: "小龙虾 Lv.1"
+  icon: "jiayuan_item_yu2"
+  image: "jiayuan_item_yu2"
+  desc: "售卖可获得钻石，有几率获得体力，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1032
+  name: "小龙虾 Lv.2"
+  icon: "jiayuan_item_yu2"
+  image: "jiayuan_item_yu2"
+  desc: "售卖可获得钻石，有几率获得体力，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1033
+  name: "小龙虾 Lv.3"
+  icon: "jiayuan_item_yu2"
+  image: "jiayuan_item_yu2"
+  desc: "售卖可获得钻石，有几率获得体力，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1034
+  name: "小龙虾 Lv.4"
+  icon: "jiayuan_item_yu2"
+  image: "jiayuan_item_yu2"
+  desc: "售卖可获得钻石，有几率获得体力，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1035
+  name: "小龙虾 Lv.5"
+  icon: "jiayuan_item_yu2"
+  image: "jiayuan_item_yu2"
+  desc: "售卖可获得钻石，有几率获得体力，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1036
+  name: "小龙虾 Lv.6"
+  icon: "jiayuan_item_yu2"
+  image: "jiayuan_item_yu2"
+  desc: "售卖可获得钻石，有几率获得体力，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1037
+  name: "小龙虾 Lv.7"
+  icon: "jiayuan_item_yu2"
+  image: "jiayuan_item_yu2"
+  desc: "售卖可获得钻石，有几率获得体力，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1038
+  name: "小龙虾 Lv.8"
+  icon: "jiayuan_item_yu2"
+  image: "jiayuan_item_yu2"
+  desc: "售卖可获得钻石，有几率获得体力，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1039
+  name: "小龙虾 Lv.9"
+  icon: "jiayuan_item_yu2"
+  image: "jiayuan_item_yu2"
+  desc: "售卖可获得钻石，有几率获得体力，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1040
+  name: "小龙虾 Lv.10"
+  icon: "jiayuan_item_yu2"
+  image: "jiayuan_item_yu2"
+  desc: "售卖可获得钻石，有几率获得体力，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1041
+  name: "河蚌 Lv.1"
+  icon: "jiayuan_item_yu4"
+  image: "jiayuan_item_yu4"
+  desc: "售卖可获得钻石，有几率获得成就点，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1042
+  name: "河蚌 Lv.2"
+  icon: "jiayuan_item_yu4"
+  image: "jiayuan_item_yu4"
+  desc: "售卖可获得钻石，有几率获得成就点，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1043
+  name: "河蚌 Lv.3"
+  icon: "jiayuan_item_yu4"
+  image: "jiayuan_item_yu4"
+  desc: "售卖可获得钻石，有几率获得成就点，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1044
+  name: "河蚌 Lv.4"
+  icon: "jiayuan_item_yu4"
+  image: "jiayuan_item_yu4"
+  desc: "售卖可获得钻石，有几率获得成就点，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1045
+  name: "河蚌 Lv.5"
+  icon: "jiayuan_item_yu4"
+  image: "jiayuan_item_yu4"
+  desc: "售卖可获得钻石，有几率获得成就点，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1046
+  name: "河蚌 Lv.6"
+  icon: "jiayuan_item_yu4"
+  image: "jiayuan_item_yu4"
+  desc: "售卖可获得钻石，有几率获得成就点，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1047
+  name: "河蚌 Lv.7"
+  icon: "jiayuan_item_yu4"
+  image: "jiayuan_item_yu4"
+  desc: "售卖可获得钻石，有几率获得成就点，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1048
+  name: "河蚌 Lv.8"
+  icon: "jiayuan_item_yu4"
+  image: "jiayuan_item_yu4"
+  desc: "售卖可获得钻石，有几率获得成就点，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1049
+  name: "河蚌 Lv.9"
+  icon: "jiayuan_item_yu4"
+  image: "jiayuan_item_yu4"
+  desc: "售卖可获得钻石，有几率获得成就点，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 1050
+  name: "河蚌 Lv.10"
+  icon: "jiayuan_item_yu4"
+  image: "jiayuan_item_yu4"
+  desc: "售卖可获得钻石，有几率获得成就点，升级后奖励提高。"
+  type: 6
+  timePre: 1
+  timeAfter: 2
+}
+items {
+  id: 2011
+  name: "种植可收获1级水仙"
+  icon: "jiayuan_item_zhongzi2"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "水仙种子 Lv.1"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2012
+  name: "种植可收获2级水仙"
+  icon: "jiayuan_item_zhongzi2"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "水仙种子 Lv.2"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2013
+  name: "种植可收获3级水仙"
+  icon: "jiayuan_item_zhongzi2"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "水仙种子 Lv.3"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2014
+  name: "种植可收获4级水仙"
+  icon: "jiayuan_item_zhongzi2"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "水仙种子 Lv.4"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2015
+  name: "种植可收获5级水仙"
+  icon: "jiayuan_item_zhongzi2"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "水仙种子 Lv.5"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2016
+  name: "种植可收获6级水仙"
+  icon: "jiayuan_item_zhongzi2"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "水仙种子 Lv.6"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2017
+  name: "种植可收获7级水仙"
+  icon: "jiayuan_item_zhongzi2"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "水仙种子 Lv.7"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2018
+  name: "种植可收获8级水仙"
+  icon: "jiayuan_item_zhongzi2"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "水仙种子 Lv.8"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2019
+  name: "种植可收获9级水仙"
+  icon: "jiayuan_item_zhongzi2"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "水仙种子 Lv.9"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2020
+  name: "种植可收获10级水仙"
+  icon: "jiayuan_item_zhongzi2"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "水仙种子 Lv.10"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2021
+  name: "种植可收获1级君子兰"
+  icon: "jiayuan_item_zhongzi3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "君子兰种子 Lv.1"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2022
+  name: "种植可收获2级君子兰"
+  icon: "jiayuan_item_zhongzi3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "君子兰种子 Lv.2"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2023
+  name: "种植可收获3级君子兰"
+  icon: "jiayuan_item_zhongzi3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "君子兰种子 Lv.3"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2024
+  name: "种植可收获4级君子兰"
+  icon: "jiayuan_item_zhongzi3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "君子兰种子 Lv.4"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2025
+  name: "种植可收获5级君子兰"
+  icon: "jiayuan_item_zhongzi3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "君子兰种子 Lv.5"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2026
+  name: "种植可收获6级君子兰"
+  icon: "jiayuan_item_zhongzi3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "君子兰种子 Lv.6"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2027
+  name: "种植可收获7级君子兰"
+  icon: "jiayuan_item_zhongzi3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "君子兰种子 Lv.7"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2028
+  name: "种植可收获8级君子兰"
+  icon: "jiayuan_item_zhongzi3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "君子兰种子 Lv.8"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2029
+  name: "种植可收获9级君子兰"
+  icon: "jiayuan_item_zhongzi3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "君子兰种子 Lv.9"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2030
+  name: "种植可收获10级君子兰"
+  icon: "jiayuan_item_zhongzi3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "君子兰种子 Lv.10"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2031
+  name: "种植可收获1级芦荟"
+  icon: "jiayuan_item_zhongzi4"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "芦荟种子 Lv.1"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2032
+  name: "种植可收获2级芦荟"
+  icon: "jiayuan_item_zhongzi4"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "芦荟种子 Lv.2"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2033
+  name: "种植可收获3级芦荟"
+  icon: "jiayuan_item_zhongzi4"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "芦荟种子 Lv.3"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2034
+  name: "种植可收获4级芦荟"
+  icon: "jiayuan_item_zhongzi4"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "芦荟种子 Lv.4"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2035
+  name: "种植可收获5级芦荟"
+  icon: "jiayuan_item_zhongzi4"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "芦荟种子 Lv.5"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2036
+  name: "种植可收获6级芦荟"
+  icon: "jiayuan_item_zhongzi4"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "芦荟种子 Lv.6"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2037
+  name: "种植可收获7级芦荟"
+  icon: "jiayuan_item_zhongzi4"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "芦荟种子 Lv.7"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2038
+  name: "种植可收获8级芦荟"
+  icon: "jiayuan_item_zhongzi4"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "芦荟种子 Lv.8"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2039
+  name: "种植可收获9级芦荟"
+  icon: "jiayuan_item_zhongzi4"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "芦荟种子 Lv.9"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2040
+  name: "种植可收获10级芦荟"
+  icon: "jiayuan_item_zhongzi4"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "芦荟种子 Lv.10"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2041
+  name: "种植可收获1级蔷薇"
+  icon: "jiayuan_item_zhongzi1"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "蔷薇种子 Lv.1"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2042
+  name: "种植可收获2级蔷薇"
+  icon: "jiayuan_item_zhongzi1"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "蔷薇种子 Lv.2"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2043
+  name: "种植可收获3级蔷薇"
+  icon: "jiayuan_item_zhongzi1"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "蔷薇种子 Lv.3"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2044
+  name: "种植可收获4级蔷薇"
+  icon: "jiayuan_item_zhongzi1"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "蔷薇种子 Lv.4"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2045
+  name: "种植可收获5级蔷薇"
+  icon: "jiayuan_item_zhongzi1"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "蔷薇种子 Lv.5"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2046
+  name: "种植可收获6级蔷薇"
+  icon: "jiayuan_item_zhongzi1"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "蔷薇种子 Lv.6"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2047
+  name: "种植可收获7级蔷薇"
+  icon: "jiayuan_item_zhongzi1"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "蔷薇种子 Lv.7"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2048
+  name: "种植可收获8级蔷薇"
+  icon: "jiayuan_item_zhongzi1"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "蔷薇种子 Lv.8"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2049
+  name: "种植可收获9级蔷薇"
+  icon: "jiayuan_item_zhongzi1"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "蔷薇种子 Lv.9"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 2050
+  name: "种植可收获10级蔷薇"
+  icon: "jiayuan_item_zhongzi1"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "蔷薇种子 Lv.10"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3011
+  name: "水仙 Lv.1"
+  icon: "jiayuan_zhiwu_shuijian_3"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "售卖可获得金币，有几率获得钻石，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3012
+  name: "水仙 Lv.2"
+  icon: "jiayuan_zhiwu_shuijian_3"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "售卖可获得金币，有几率获得钻石，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3013
+  name: "水仙 Lv.3"
+  icon: "jiayuan_zhiwu_shuijian_3"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "售卖可获得金币，有几率获得钻石，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3014
+  name: "水仙 Lv.4"
+  icon: "jiayuan_zhiwu_shuijian_3"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "售卖可获得金币，有几率获得钻石，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3015
+  name: "水仙 Lv.5"
+  icon: "jiayuan_zhiwu_shuijian_3"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "售卖可获得金币，有几率获得钻石，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3016
+  name: "水仙 Lv.6"
+  icon: "jiayuan_zhiwu_shuijian_3"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "售卖可获得金币，有几率获得钻石，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3017
+  name: "水仙 Lv.7"
+  icon: "jiayuan_zhiwu_shuijian_3"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "售卖可获得金币，有几率获得钻石，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3018
+  name: "水仙 Lv.8"
+  icon: "jiayuan_zhiwu_shuijian_3"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "售卖可获得金币，有几率获得钻石，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3019
+  name: "水仙 Lv.9"
+  icon: "jiayuan_zhiwu_shuijian_3"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "售卖可获得金币，有几率获得钻石，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3020
+  name: "水仙 Lv.10"
+  icon: "jiayuan_zhiwu_shuijian_3"
+  image: "jiayuan_zhiwu_shuijian_3"
+  desc: "售卖可获得金币，有几率获得钻石，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3021
+  name: "君子兰 Lv.1"
+  icon: "jiayuan_zhiwu_junzilan_3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "售卖可获得金币，有几率获得经验，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3022
+  name: "君子兰 Lv.2"
+  icon: "jiayuan_zhiwu_junzilan_3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "售卖可获得金币，有几率获得经验，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3023
+  name: "君子兰 Lv.3"
+  icon: "jiayuan_zhiwu_junzilan_3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "售卖可获得金币，有几率获得经验，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3024
+  name: "君子兰 Lv.4"
+  icon: "jiayuan_zhiwu_junzilan_3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "售卖可获得金币，有几率获得经验，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3025
+  name: "君子兰 Lv.5"
+  icon: "jiayuan_zhiwu_junzilan_3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "售卖可获得金币，有几率获得经验，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3026
+  name: "君子兰 Lv.6"
+  icon: "jiayuan_zhiwu_junzilan_3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "售卖可获得金币，有几率获得经验，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3027
+  name: "君子兰 Lv.7"
+  icon: "jiayuan_zhiwu_junzilan_3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "售卖可获得金币，有几率获得经验，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3028
+  name: "君子兰 Lv.8"
+  icon: "jiayuan_zhiwu_junzilan_3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "售卖可获得金币，有几率获得经验，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3029
+  name: "君子兰 Lv.9"
+  icon: "jiayuan_zhiwu_junzilan_3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "售卖可获得金币，有几率获得经验，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3030
+  name: "君子兰 Lv.10"
+  icon: "jiayuan_zhiwu_junzilan_3"
+  image: "jiayuan_zhiwu_junzilan_3"
+  desc: "售卖可获得金币，有几率获得经验，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3031
+  name: "芦荟 Lv.1"
+  icon: "jiayuan_zhiwu_luhui_3"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "售卖可获得金币，有几率获得体力，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3032
+  name: "芦荟 Lv.2"
+  icon: "jiayuan_zhiwu_luhui_3"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "售卖可获得金币，有几率获得体力，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3033
+  name: "芦荟 Lv.3"
+  icon: "jiayuan_zhiwu_luhui_3"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "售卖可获得金币，有几率获得体力，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3034
+  name: "芦荟 Lv.4"
+  icon: "jiayuan_zhiwu_luhui_3"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "售卖可获得金币，有几率获得体力，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3035
+  name: "芦荟 Lv.5"
+  icon: "jiayuan_zhiwu_luhui_3"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "售卖可获得金币，有几率获得体力，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3036
+  name: "芦荟 Lv.6"
+  icon: "jiayuan_zhiwu_luhui_3"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "售卖可获得金币，有几率获得体力，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3037
+  name: "芦荟 Lv.7"
+  icon: "jiayuan_zhiwu_luhui_3"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "售卖可获得金币，有几率获得体力，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3038
+  name: "芦荟 Lv.8"
+  icon: "jiayuan_zhiwu_luhui_3"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "售卖可获得金币，有几率获得体力，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3039
+  name: "芦荟 Lv.9"
+  icon: "jiayuan_zhiwu_luhui_3"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "售卖可获得金币，有几率获得体力，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3040
+  name: "芦荟 Lv.10"
+  icon: "jiayuan_zhiwu_luhui_3"
+  image: "jiayuan_zhiwu_luhui_3"
+  desc: "售卖可获得金币，有几率获得体力，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3041
+  name: "蔷薇 Lv.1"
+  icon: "jiayuan_zhiwu_qiangwei_3"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "售卖可获得金币，有几率获得成就点，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3042
+  name: "蔷薇 Lv.2"
+  icon: "jiayuan_zhiwu_qiangwei_3"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "售卖可获得金币，有几率获得成就点，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3043
+  name: "蔷薇 Lv.3"
+  icon: "jiayuan_zhiwu_qiangwei_3"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "售卖可获得金币，有几率获得成就点，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3044
+  name: "蔷薇 Lv.4"
+  icon: "jiayuan_zhiwu_qiangwei_3"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "售卖可获得金币，有几率获得成就点，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3045
+  name: "蔷薇 Lv.5"
+  icon: "jiayuan_zhiwu_qiangwei_3"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "售卖可获得金币，有几率获得成就点，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3046
+  name: "蔷薇 Lv.6"
+  icon: "jiayuan_zhiwu_qiangwei_3"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "售卖可获得金币，有几率获得成就点，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3047
+  name: "蔷薇 Lv.7"
+  icon: "jiayuan_zhiwu_qiangwei_3"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "售卖可获得金币，有几率获得成就点，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3048
+  name: "蔷薇 Lv.8"
+  icon: "jiayuan_zhiwu_qiangwei_3"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "售卖可获得金币，有几率获得成就点，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3049
+  name: "蔷薇 Lv.9"
+  icon: "jiayuan_zhiwu_qiangwei_3"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "售卖可获得金币，有几率获得成就点，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}
+items {
+  id: 3050
+  name: "蔷薇 Lv.10"
+  icon: "jiayuan_zhiwu_qiangwei_3"
+  image: "jiayuan_zhiwu_qiangwei_3"
+  desc: "售卖可获得金币，有几率获得成就点，升级后奖励提高。"
+  type: 7
+  timePre: 1
+  timeAfter: 3
+}

@@ -1,0 +1,11285 @@
+items {
+  id: "beijing01_anmo_1"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_anmo_2"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_dating_1"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_dating_2"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_ding_1"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_ding_2"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_ding_qiang_1"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_ding_qiang_2"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_gengyi_1"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_gengyi_2"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_malu_1"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_malu_2"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_sangna_1"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_sangna_2"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_youxi_1"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_youxi_2"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_yule_1"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_yule_2"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_yushi_1"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing01_yushi_2"
+  path: "Map/bg/home_01"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_anmo_1"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_anmo_2"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_dating_1"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_dating_2"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_ding_1"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_ding_2"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_ding_qiang_1"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_ding_qiang_2"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_gengyi_1"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_gengyi_2"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_malu_1"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_malu_2"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_sangna_1"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_sangna_2"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_youxi_1"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_youxi_2"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_yule_1"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_yule_2"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_yushi_1"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing_yushi_2"
+  path: "Map/bg/home_1"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_changjing_1"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_changjing_2"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_dating1"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_dating2"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_ding_1"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_ding_2"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_jiaoshi1"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_jiaoshi2"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_men_3_1"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_men_3_2"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_yongchi1"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_yongchi2"
+  path: "Map/bg/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_anmo_1"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_anmo_2"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_dating_1"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_dating_2"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_ding_1"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_ding_2"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_ding_qiang_1"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_ding_qiang_2"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_gengyi_1"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_gengyi_2"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_malu_1"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_malu_2"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_sangna_1"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_sangna_2"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_youxi_1"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_youxi_2"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_yule_1"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_yule_2"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_yushi_1"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing2_yushi_2"
+  path: "Map/bg/home_2"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_anmo_1"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_anmo_2"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_dating_1"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_dating_2"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_ding_1"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_ding_2"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_ding_qiang_1"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_ding_qiang_2"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_gengyi_1"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_gengyi_2"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_malu_1"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_malu_2"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_sangna_1"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_sangna_2"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_youxi_1"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_youxi_2"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_yule_1"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_yule_2"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_yushi_1"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing3_yushi_2"
+  path: "Map/bg/home_3"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_anmo_1"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_anmo_2"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_dating_1"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_dating_2"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_ding_1"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_ding_2"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_ding_qiang_1"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_ding_qiang_2"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_gengyi_1"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_gengyi_2"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_malu_1"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_malu_2"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_sangna_1"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_sangna_2"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_youxi_1"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_youxi_2"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_yule_1"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_yule_2"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_yushi_1"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "beijing4_yushi_2"
+  path: "Map/bg/home_4"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "jiayuan_beijing_1"
+  path: "Map/bg/homeworld"
+  suffix: ".jpg"
+  type: 1
+}
+items {
+  id: "jiayuan_beijing_2"
+  path: "Map/bg/homeworld"
+  suffix: ".jpg"
+  type: 1
+}
+items {
+  id: "jiayuan_beijing_3"
+  path: "Map/bg/homeworld"
+  suffix: ".jpg"
+  type: 1
+}
+items {
+  id: "jiayuan_beijing_4"
+  path: "Map/bg/homeworld"
+  suffix: ".jpg"
+  type: 1
+}
+items {
+  id: "jiayuan_beijing_pinjie"
+  path: "Map/bg/homeworld"
+  suffix: ".jpg"
+  type: 1
+}
+items {
+  id: "jiayuan_fangzi_1"
+  path: "Map/fangzi"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "jiayuan_fangzi_2"
+  path: "Map/fangzi"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "jiayuan_fangzi_3"
+  path: "Map/fangzi"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "jiayuan_fangzi_4"
+  path: "Map/fangzi"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "jiayuan_fangzi_5"
+  path: "Map/fangzi"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_chizi1"
+  path: "Map/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_chizi2"
+  path: "Map/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_chonglangtai"
+  path: "Map/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_men_1_1"
+  path: "Map/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_men_1_2"
+  path: "Map/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_men_2_1"
+  path: "Map/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_men_2_2"
+  path: "Map/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "upstairs_xuanzhuanhuati"
+  path: "Map/home_10"
+  suffix: ".png"
+  type: 1
+}
+items {
+  id: "chengjiu_icon_1001"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1002"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1003"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1004"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1005"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1006"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1007"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1008"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1009"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1010"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1011"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1012"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1013"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1014"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1015"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1016"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1017"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1018"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1019"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1020"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1021"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1022"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1023"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1024"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1025"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1026"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1027"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1028"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1029"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1030"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1031"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_1032"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2001"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2002"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2003"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2004"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2005"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2006"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2007"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2008"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2012"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2013"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2014"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2015"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2033"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_2034"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_3003"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_3004"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_3005"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_3006"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_3007"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_3008"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_3016"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_3017"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_4005"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_4006"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_4007"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_4008"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_4035"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_4036"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5001"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5002"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5003"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5004"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5005"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5006"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5007"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5008"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5009"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5010"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5011"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5012"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5013"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5014"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5015"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5016"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5017"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5018"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5019"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5020"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5021"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5022"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5023"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5024"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5025"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5026"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_icon_5027"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9001"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9002"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9003"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9004"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9005"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9006"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9009"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9010"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9011"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9012"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9013"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9014"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9015"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9016"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9017"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9018"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9019"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9020"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9021"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9022"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9023"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9024"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9025"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9026"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9027"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9028"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9029"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9900"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9901"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9902"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9903"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_shop_9904"
+  path: "AchIcons"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_btn_shangdian"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_caishen1"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_caishen2"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_caishen3"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_caishen4"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_caishentouxiang1"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_caishentouxiang2"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_caishentouxiang3"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_caishentouxiang4"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_chongfuduihuan"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_dacheng"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_jiantou"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_jiantou2"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_jindudi"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_jinxingzhong"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_ka"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_ka0"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_ka1"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_ka2"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_ka3"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_ka4"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_kazi1"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_kazi2"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_kazi3"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_kazi4"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiu_yiduihuan"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiushop_bg"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "chengjiushop_buanbi"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "jineng_chengjiu_bg1"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "jineng_chengjiu_bg2"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "jineng_chengjiu_bg3"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "jineng_chengjiu_bg4"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "shopback_5"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_fengexian2"
+  path: "Achievement"
+  suffix: ".png"
+}
+items {
+  id: "gonggao_btn_shouqi"
+  path: "Announcement"
+  suffix: ".png"
+}
+items {
+  id: "gonggao_btn_zhankai"
+  path: "Announcement"
+  suffix: ".png"
+}
+items {
+  id: "gonggao_pic_0"
+  path: "Announcement"
+  suffix: ".png"
+}
+items {
+  id: "gonggao_pic_di"
+  path: "Announcement"
+  suffix: ".png"
+}
+items {
+  id: "gonggao_pic_xinfeng1"
+  path: "Announcement"
+  suffix: ".png"
+}
+items {
+  id: "gonggao_pic_xinfeng2"
+  path: "Announcement"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_1"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_1_open"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_2"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_2_open"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_3"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_3_open"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_4"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_4_open"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_5"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_5_open"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_6"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_6_open"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_7"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "baoxiang_7_open"
+  path: "Box"
+  suffix: ".png"
+}
+items {
+  id: "yg_btn_chongzhi"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_icon_jinengdian"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_icon_lvjiantou"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_jindu"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_ka01"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_ka02"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_ka03"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_pic_biaoqian01"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_pic_biaoqian02"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_pic_biaoti"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_pic_gongzuo"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_pic_suo"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_pic_xin"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_pic_xiuxi"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_yimanji"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yg_zhuangshi04"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_shoujiadi"
+  path: "Clerk"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_acniang"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_ajun"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_anlingrong"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_anran"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_awei"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_ayong"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_ayu"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_bainiangzi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_chenchen"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_chunli"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_chunsheng"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_daiyu"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_dajiaoshen"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_dalinzi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_dandan"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_datian"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_dazhou"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_dihua"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_dilirema"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_fengxiaomei"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_fugui"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_gaohe"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_genggeng"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_gongteng"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_gouge"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_goutounan"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_gouwukuang"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_guaige"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_guixianren"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_guoliang"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_haimiannan"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_hanayi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_huadao"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_huanshu"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_huazai"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_jike"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_jingjing"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_juzuo"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_kunkun"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_lange"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_lanlan"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_laoma"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_lei"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_lijiaqi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_ling"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_liuyan"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_lixiaolong"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_longge"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_lufei"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_luolaoshi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_maike"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_maikesi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_malilianmenglu"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_maxixi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_mingren"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_nezha"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_panzishu"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_qiumi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_qiyu"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_ruanxiaoyu"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_sanli"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_senqiang"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_shendage"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_shiwaxinge"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_shixian"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_siming"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_sudaye"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_sulaoshi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_susu"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_suying"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_tailang"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_tegonga"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_tenggeer"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_tianyi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_tongxiangyu"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_tutu"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_waimaixiaoge"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_wanghaoran"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_wangqian"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_wangtiejun"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_wujiejie"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_wusanshi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_wuxiulan"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiajiejie"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaobo"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaochan"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaochou"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaodangjia"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaodouzi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaohui"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaojun"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaolong"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaoqing"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaosunyang"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaoxiange"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaoxun"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaoye"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaoyi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaoyueyue"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiaozhi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiayingying"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xingdage"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xiongmaoge"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xishuashua"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xixi"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_xueying"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_yangnike"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_yase"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_yeshifu"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_ying"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_yining"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_zhangcuihua"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_zhanlangge"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_zhazhahui"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_zhilingjiejie"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_zhouxiaoye"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_zhugechengxiang"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_zhujue"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "yuangong_zuxian"
+  path: "ClerkHead"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_1"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_10"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_11"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_12"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_13"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_14"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_15"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_16"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_17"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_18"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_19"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_2"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_20"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_21"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_22"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_23"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_24"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_25"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_26"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_27"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_28"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_3"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_4"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_5"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_6"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_7"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_8"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "clerk_skill_9"
+  path: "ClerkSkill"
+  suffix: ".png"
+}
+items {
+  id: "bianpingqipao_01"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_1"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_2"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_3"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_4"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_5"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_6"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_7"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_8"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_9"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_icon_kanguanggao"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_icon_qiehuan"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_icon_qiehuan2"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_icon_qingchu"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_icon_shuaxin"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "btn_icon_shuaxin1"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_btn_guanbi"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_btn_mai"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_jiahao"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_cwexp"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_di0"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_di1"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_jinbi"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_jindu"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_jindu2"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_jindu3"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_jinengdian"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_nengliang"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_tiaozhan"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_tiaozhantiao"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_yiduijinbi"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_zuanshi"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "com_wupindi"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "common_hongdian"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "common_hongdian2"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "common_xin"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "employee_green_bar_160x52b"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "gongxihuode_wupinkuang"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "icon_chengjiu"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "icon_jingyan"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "jieneng_beidong"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "jineng_dianpu"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "jineng_dianpu_beidong"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "jineng_weixuanzhong"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "jineng_xuankuang"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "jineng_xuanzhong"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "juqing_qipao1"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "juqing_qipao2"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "juqing_qipao3"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "loading_jindu"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "loading_paopao01"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "loading_paopao02"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "loading_paopao03"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "loading_yazi"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shezhi_bg_guan"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shezhi_bg_kai"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shezhi_btn_1"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shezhi_pic_xiaozhushou"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shezhi_pic_xinxi"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shezhi_pic_yijian"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shezhi_pic_yinxiao"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shezhi_pic_yinyue"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shilingtishi_12"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shilingtishi_diban_shu"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shilingtishi_guanbi_shu"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "shop_xiangqing"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_bangzhu"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_da"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_di"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_di3"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_di4"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_di5"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_dise"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_fengexian"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_guanbi"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_jingshi"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_liebiao"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_tipsdi"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_xiangqing"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_zhuangshi01"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_zhuangshi02"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_zhuangshi03"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "tilibuzu_bg"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "ty_txt_guanbi"
+  path: "Common"
+  suffix: ".png"
+}
+items {
+  id: "goods_anmo"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_anmo1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_babaxifashui"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_babaxifashui1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_baojianpindaquan"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_baojianpindaquan1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_baokuangli"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_beifangrege"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_beifangrege1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_binghuoliangchongtian"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_binghuoliangchongtian1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuanghongyang"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuanghongyang1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuangkuaileshui"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuangkuaileshui1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuanglvpi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuanglvpi1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuangruiou"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuangruiou1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuangsudashui"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuangsudashui1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuangxuebi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bingzhenguanzhuangxuebi1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_bojicaokeka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_changxiaoshu"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_changxiaoshu1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_chengnianchonglangmenpiao"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_chengnianhuatimenpiao"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_chonglangluxiangliunian"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_chonglangpaizhaoliunian"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_cucuo"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_cucuo1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_cuonibao"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_cuonibao1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_cuozao"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_cuozao1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_donggandancheka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_doudizhu"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_doudizhu1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_feixingqi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_feixingqi1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_fenghuahufasu"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_fenghuahufasu1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_gaijiaofan"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_gaijiaofan1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_ganglingka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_gaokaotiku"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_gaokaotiku1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuanghongyang"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuanghongyang1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuangkuaileshui"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuangkuaileshui1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuanglvpi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuanglvpi1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuangruiou"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuangruiou1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuangsudashui"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuangsudashui1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuangxuebi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_guanzhuangxuebi1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_haifeisi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_haifeisi1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_hongfenglinghufasu"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_hongfenglinghufasu1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_hongjiucuo"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_hongjiucuo1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_huabanzuyu"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_huabanzuyu1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_huachuanka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_huashifen"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_huatiluxiangliunian"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_huatipaizhaoliunian"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_jianjingxiufukeka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_jingpinjinianpin"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_jingyoukaibei"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_jingyoukaibei1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_jiweijiu"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_jiweijiu1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_jushikeka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_kushuangguozhi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_kushuangguozhi1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_lanzhoulamian"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_lanzhoulamian1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_liangdiandiannaicha"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_liangdiandiannaicha1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_liuxingquku"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_liuxingquku1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_luosifen"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_luosifen1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_maidong"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_majiang"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_majiang1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_naicuo"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_naicuo1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_nanshiyongyi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_nvshiyongyi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_paobuka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_pulatikeka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_qishenhualushui"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_qishenhualushui1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shaonianchonglangmenpiao"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shaonianhuatimenpiao"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shenxianshui"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shenxianshui1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shishangzazhi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shishangzazhi1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shuazi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shuazi1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shufujiamuyulu"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shufujiamuyulu1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shupian"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_shupian1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_tiaoshengka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_tiaowuji"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_tiaowuji1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_toulanji"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_toulanji1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_tuixiongxunlianka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_tuoyuanjika"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPbojicaoxiaoke"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPdonggandancheka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPganglingka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPhuachuanka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPjianjingxiufuka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPjueshixiaoke"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPpaobuka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPpulatikeka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPtiaoshengka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPtuixiongxunlianka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPtuoyuanjika"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPwotuika"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPyouyongka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPyujiaxiaoke"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPzonghexunlianka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_VIPzunbaxiaoke"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_wotuika"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_xianguazi"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_xianguazi1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_xiaozongping"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_xiaozongping1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_xiujiaozuyu"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_xiujiaozuyu1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_yadunshentiru"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_yadunshentiru1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_yancuo"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_yancuo1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_youxiji"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_youxiji1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_youyongersai"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_youyongka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_youyongmao"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_youyongyanjing"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_yueyujinqu"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_yueyujinqu1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_yujiadian"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_yujiakeka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_yundongmaojin"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zaotangmaojin"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zaotangmaojin1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zaotangyujin"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zaotangyujin1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zhiyedoudizhupeiwan"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zhiyedoudizhupeiwan1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zhiyefeixingqipeiwan"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zhiyefeixingqipeiwan1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zhiyemajiangpeiwan"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zhiyemajiangpeiwan1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zhongyaozuyu"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zhongyaozuyu1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zonghexunlianka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zumalongmuyulu"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zumalongmuyulu1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "goods_zunbakeka"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "item_mianfeilibao"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "item_mianfeilibao1"
+  path: "Goods"
+  suffix: ".png"
+}
+items {
+  id: "cebian_tujian"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "guke_huizhang1"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "guke_huizhang2"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "guke_huizhang3"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "guke_huizhang4"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "guke_huizhang5"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "huode_xinke_di1"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "huode_xinke_di2"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "huode_xinke_di3"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "icon_haogandu"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "icon_haoganlihe"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "jindu_huakuai"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "keren_biaoqian"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "lake_xinke"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_bg"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_bg2"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_biaoqian_di"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_fanye"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_ka0"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_ka01"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_ka1"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_ka2"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_ka3"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_ka4"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_ka5"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_kuang0"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_kuang1"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_kuang2"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_kuang3"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_kuang4"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_kuang5"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_touxiang_bg1"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_touxiang_bg2"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "tujian_zhuangban"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "zjm_dengjijindu_1"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "zjm_dengjijindu_2"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "zjm_dengjitisheng_txt"
+  path: "GuestCollect"
+  suffix: ".png"
+}
+items {
+  id: "guke_1"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_10"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_11"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_12"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_13"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_14"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_15"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_16"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_17"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_18"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_19"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_2"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_20"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_21"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_22"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_23"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_24"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_25"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_26"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_27"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_28"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_29"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_3"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_30"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_31"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_32"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_33"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_34"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_35"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_36"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_37"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_38"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_39"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_4"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_40"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_41"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_44"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_45"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_46"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_47"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_48"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_49"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_5"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_50"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_51"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_52"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_53"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_54"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_55"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_56"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_57"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_58"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_59"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_6"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_60"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_61"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_62"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_63"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_64"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_65"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_66"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_67"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_68"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_69"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_7"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_70"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_71"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_72"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_73"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_8"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "guke_9"
+  path: "GuestHead"
+  suffix: ".png"
+}
+items {
+  id: "kerenmingdan_gensui"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "kerenmingdan_touxiang"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "kerenmingdan_wupindi1"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "kerenmingdan_wupindi2"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "kerenmingdan_wupindi3"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "kerenmingdan_wupindi4"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "lake_di_beifang"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "lake_di_nanfang"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "lake_di_xiedai"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "lake_ka"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "lake_ka_xuankuang"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_tipsdi2"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "tilibuzu_biaoti"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "tilibuzu_juese"
+  path: "GuestList"
+  suffix: ".png"
+}
+items {
+  id: "xinshouyindao_jiantou"
+  path: "Guide"
+  suffix: ".png"
+}
+items {
+  id: "xsyd_banshen_huang"
+  path: "Guide"
+  suffix: ".png"
+}
+items {
+  id: "xsyd_banshen_nanzhu"
+  path: "Guide"
+  suffix: ".png"
+}
+items {
+  id: "xsyd_banshen_nvzhu"
+  path: "Guide"
+  suffix: ".png"
+}
+items {
+  id: "xsyd_banshen_vip"
+  path: "Guide"
+  suffix: ".png"
+}
+items {
+  id: "xsyd_duihuakuang1"
+  path: "Guide"
+  suffix: ".png"
+}
+items {
+  id: "xsyd_duihuakuang2"
+  path: "Guide"
+  suffix: ".png"
+}
+items {
+  id: "xsyd_duihuakuang3"
+  path: "Guide"
+  suffix: ".png"
+}
+items {
+  id: "xsyd_juese1"
+  path: "Guide"
+  suffix: ".png"
+}
+items {
+  id: "xsyd_juese2"
+  path: "Guide"
+  suffix: ".png"
+}
+items {
+  id: "xsyd_shou"
+  path: "Guide"
+  suffix: ".png"
+}
+items {
+  id: "cebian_chengjiu"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "cebian_gonggao"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "cebian_jiayuan"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "cebian_qiandao"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "cebian_shezhi"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "cebian_tiaozhan"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "cebian_yijianruqun"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "cebian_zhuangxiu"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_btn_anniu"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_btn_renwu"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_btn_shangcheng"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_btn_shuaxin"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_btn_xiangqing"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_btn_yuangong"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_dengji"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_dengjidi"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_dengjitubiao"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_di2"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_keren"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_lake1"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_lakezhong1"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_renwu"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_renwutiao"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_shangcheng"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_tishi"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_wancheng"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_yiman1"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_yuangong"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_zhuangxiu"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "huijia_juese"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "icon_shouyi"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "icon_shouyi2"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "map_zhaopai"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "renwu_wancheng"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "tiaozhan_zjm_bg"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "tiaozhan_zjm_btn"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_zhaopai"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_banshou"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_dasao"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_jiesuo01"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_jiesuo02"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_jiesuodi"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_jineng_jcu"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_jineng_jiaqian"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_jineng_jjiasu"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_qipao1"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_qipao2"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_qipao3"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_qipao4"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_qipao5"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_qipao6"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_quehuo1"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_quehuo2"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_shijian"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_shijiandi"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_suo"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_suo2"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_wancheng"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_wancheng1"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_wancheng2"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_wancheng3"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_xiuli"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_zhezhao"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "zjm_zhuangxiu"
+  path: "Home"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_cangku"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_chognwu"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_huijia"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_shengji"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "com_pic_zichan"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "com_tab_bg"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "com_tab1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "com_tab2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "com_tab3"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_btn_guanbi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_btn_weixuan"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_btn_xuanzhong"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_dengji_di"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_dengji_di0"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_gouzi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_1_1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_2_1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_3"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_3_1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_bian1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_bian2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_daihuo"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_fadai"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_gaiming"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_gou"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_gou0"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_guang"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_jindutiao"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_kuang0"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_kuang2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_kuang3"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_kuang4"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_kuang6"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_kuang7"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_kuang8"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_kuangkuang"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_kuango5"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_manji"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_manji0"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_mao"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_qipao"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_qipao0"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_shengji"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_sucai"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_tianjia"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_touying"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_tuo"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_tuo0"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_xingxing"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_xiuxi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_xuanzhong"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_xuanzhonga"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_yinzhang"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_pic_youzhi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_touxiang_gou"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_touxiang_mao"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_touxiang_yangtuo"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "cw_yangtuo"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "donghua_xingxing"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "guantou_1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "guantou_2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "guantou_3"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "item_chongwuwu"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "item_daihuo"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "item_jiangli"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "item_junzilanzhongzi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "item_luhuizhongzi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "item_paichu"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "item_qiangweizhongzi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "item_shouhuo"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "item_shuixianzhongzi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "item_yu1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "item_yuer"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_biaotidi1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_biaotidi2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_cangkubiaoti"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_cangkubiaoti2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_cangkudi1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_cangkudi2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_cangkudi3"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_huashuliang"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_che1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_che2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_che3"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_che4"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_che5"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_fangzi1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_fangzi2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_fangzi3"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_fangzi4"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_fangzi5"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_hua1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_hua2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_hua3"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_hua4"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_wo1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_wo2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_wo3"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_wo4"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_wo5"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_yu1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_yu2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_yu3"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_yu4"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_yvtang"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_zhongzi1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_zhongzi2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_zhongzi3"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_item_zhongzi4"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_jiangli_wupindi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_jianglidi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_jiesuo"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_jindu"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_jindudi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_paichu1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_shanghuo"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_shangjia_di1"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_shangjia_di2"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_shengji"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_shijian"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_shoujia"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_shoumaizhong"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_wupinmingdi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_yushuliang"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhongzhi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zichan_cheku"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zichan_chongwuwo"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zichan_gangzi"
+  path: "homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_che_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_che_1_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_che_2"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_che_2_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_che_3"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_che_3_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_che_4"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_che_4_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_che_5"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_che_5_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_diaoyu"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_diaoyu_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_diaoyu_2"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_diaoyu_3"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_diaoyu_4"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_diaoyu_5"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_huapu"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_shuying"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_tanwei"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhalan"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhalan_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_junzilan_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_junzilan_2"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_junzilan_3"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_luhui_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_luhui_2"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_luhui_3"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_qiangwei_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_qiangwei_2"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_qiangwei_3"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_shuijian_1"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_shuijian_2"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_zhiwu_shuijian_3"
+  path: "map_homeworld"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_chongwuwu1"
+  path: "map_homeworld2"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_chongwuwu2"
+  path: "map_homeworld2"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_chongwuwu3"
+  path: "map_homeworld2"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_chongwuwu4"
+  path: "map_homeworld2"
+  suffix: ".png"
+}
+items {
+  id: "jiayuan_chongwuwu5"
+  path: "map_homeworld2"
+  suffix: ".png"
+}
+items {
+  id: "map01_cuozaotai"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_cuozaotai_nv"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_guitai"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_guitai_1"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_1_1"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_1_2"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_menkou_1"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_menkou_3"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_qiang"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_sangna"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_sangna_nv"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_sangnamen_1"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_sangnamen_1_nv"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_sangnamen_2"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_sangnamen_2_nv"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_shuxitai"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_shuxitai_dengzi"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_xilianpen"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_xiyu"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_xiyu_geban_1"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_xiyu_geban_2"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_xiyu_nv"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_yuangongmen_1"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_yuchi"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_yuchi_1"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_yuchi_nv"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_yuchi_nv_1"
+  path: "map01Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_2_1"
+  path: "map01Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_2_2"
+  path: "map01Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_3_1"
+  path: "map01Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_3_2"
+  path: "map01Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_4_1"
+  path: "map01Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_4_2"
+  path: "map01Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_5_1"
+  path: "map01Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_5_2"
+  path: "map01Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_5_3"
+  path: "map01Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_5_4"
+  path: "map01Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map01_deng_1"
+  path: "map01Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map01_dianshan"
+  path: "map01Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map01_huaping_1"
+  path: "map01Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map01_penzai_1"
+  path: "map01Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map01_penzai_2"
+  path: "map01Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map01_penzai_3"
+  path: "map01Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map01_shizhong"
+  path: "map01Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map01_shuitong_2"
+  path: "map01Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map01_yinshuiji"
+  path: "map01Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map01_anmo"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_canting_1"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_canting_3"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_canting_4"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_gengyigui"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_gengyigui_1"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_guanggaoban"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_guanggaoban_1"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_guanggaoban_2"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_guanggaoban_3"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_6_1"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_6_2"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_6_3"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_6_4"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_shuiba_1"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_shuiba_3"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_shuiba_4"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_zuliao_1"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_zuliao_2"
+  path: "map01Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map01_guanggaoban_4"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_guanggaoban_5"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_guanggaoban_6"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_guanggaoban_7"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_haibao_1"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_haibao_2"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_jinzhixiyan"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_7_1"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_7_2"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_7_3"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_7_4"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_qipai_1"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_qipai_2"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_qipai_3"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_qipai_4"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_youxiji_1"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_youxiji_2"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_youxiji_3_1"
+  path: "map01Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map01_KTV_1"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_KTV_2"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_KTV_3"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_KTV_6"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_KTV_7"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_KTV_dan_1"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_KTV_dan_2"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_8_1"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_8_2"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_8_3"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_men_8_4"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_shugui_1"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_shugui_2"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map01_shugui_3"
+  path: "map01Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "diantiguang"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_biaoji"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_chonglangban1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_chonglangban2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_chonglangban3"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_chonglangban4"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_deng"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_deng0"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_diantikou"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_diantimen"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_dianzi"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_donggandanche"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_guizi"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_huachuanji"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_huati1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_huati2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_huatijiazi1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_huatijiazi2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_jianpiaogan"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_jianpiaoji1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_jianpiaoji2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_jianpiaokou"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_juzhongji"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_lajitong"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_laliqi"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_langan"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_maojin"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_paobuji1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_paobuji2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_qiang"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_qiu_1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_qiu_2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_tiaosheng1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_tiaosheng2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_tizi"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_tuoyuanji"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_wotui_1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_wotui_2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_xialou_you"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_xialou_zuo"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_xiaoxindihua"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_yaling"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_yaling_1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_yalingjiazi_1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_yalingjiazi_2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_yalingyingzi"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_yatui_1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_yatui_2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_yizi"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_youyongquan"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_youyongxian1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_youyongxian2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_yujiadian_1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_yujiadian_2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_yujiadian1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_zhuan_1"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_zhuan_2"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "upstairs_zhuangshidai"
+  path: "map10Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_cuozaotai"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_cuozaotai_nv"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_deng"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_guitai"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_guitai_1"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_1_1"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_1_2"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_menkou_1"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_menkou_3"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_qiang"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_qiangfeng"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_sangna"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_sangna_nv"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_sangnamen_1"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_sangnamen_1_nv"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_sangnamen_2"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_sangnamen_2_nv"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_shuxitai"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_shuxitai_dengzi"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_xilianpen"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_xiyu"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_xiyu_geban_1"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_xiyu_nv"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_yuangongmen"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_yuangongmen_1"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_yuchi"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_yuchi_2"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_yuchi_nv"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_yuchi_nv_1"
+  path: "map2Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_2_1"
+  path: "map2Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_2_2"
+  path: "map2Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_3_1"
+  path: "map2Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_3_2"
+  path: "map2Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_4_1"
+  path: "map2Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_4_2"
+  path: "map2Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_5_1"
+  path: "map2Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_5_2"
+  path: "map2Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_5_3"
+  path: "map2Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_5_4"
+  path: "map2Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map2_baomihua"
+  path: "map2Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map2_dianshan"
+  path: "map2Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map2_huaping_1"
+  path: "map2Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map2_kele"
+  path: "map2Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map2_lideng_1"
+  path: "map2Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map2_penzai_1"
+  path: "map2Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map2_penzai_2"
+  path: "map2Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map2_penzai_3"
+  path: "map2Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map2_shizhong"
+  path: "map2Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map2_shuitong_2"
+  path: "map2Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map2_yinshuiji"
+  path: "map2Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map2_anmo"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_canting_1"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_canting_3"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_canting_4"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_gengyigui"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_gengyigui_1"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_guanggaoban"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_guanggaoban_1"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_guanggaoban_2"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_guanggaoban_3"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_6_1"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_6_2"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_6_3"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_6_4"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_shuiba_1"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_shuiba_2"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_shuiba_3"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_shuiba_4"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_zuliao_1"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_zuliao_2"
+  path: "map2Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map2_guanggaoban_4"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_guanggaoban_5"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_guanggaoban_6"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_guanggaoban_7"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_haibao_1"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_haibao_2"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_jinzhixiyan"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_7_1"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_7_2"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_7_3"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_7_4"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_qipai_1"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_qipai_2"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_qipai_3"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_qipai_4"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_youxiji_1"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_youxiji_2"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_youxiji_3_1"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_youxiji_3_2"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_youxiji_3_3"
+  path: "map2Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map2_KTV_1"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_KTV_2"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_KTV_3"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_KTV_4"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_KTV_5"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_KTV_6"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_KTV_7"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_KTV_dan_1"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_KTV_dan_2"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_KTV_dan_3"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_8_1"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_8_2"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_8_3"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_men_8_4"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_shugui_1"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_shugui_2"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map2_shugui_3"
+  path: "map2Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_cuozaotai"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_cuozaotai_nv"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_guitai"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_guitai_1"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_1_1"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_1_2"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_menkou_1"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_menkou_3"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_qiang"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_qiang_1"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_sangna"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_sangna_nv"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_sangnamen_1"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_sangnamen_1_nv"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_sangnamen_2"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_sangnamen_2_nv"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_shuxitai"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_shuxitai_dengzi"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_xilianpen"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_xiyu"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_xiyu_geban_1"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_xiyu_geban_2"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_xiyu_nv"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_yuangongmen"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_yuangongmen_1"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_yuchi"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_yuchi_1"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_yuchi_nv"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_yuchi_nv_1"
+  path: "map3Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_2_1"
+  path: "map3Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_2_2"
+  path: "map3Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_3_1"
+  path: "map3Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_3_2"
+  path: "map3Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_4_1"
+  path: "map3Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_4_2"
+  path: "map3Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_5_1"
+  path: "map3Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_5_2"
+  path: "map3Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_5_3"
+  path: "map3Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_5_4"
+  path: "map3Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map3_dianshan"
+  path: "map3Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map3_huaping_1"
+  path: "map3Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map3_lideng_1"
+  path: "map3Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map3_penzai_1"
+  path: "map3Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map3_penzai_2"
+  path: "map3Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map3_penzai_3"
+  path: "map3Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map3_shizhong"
+  path: "map3Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map3_shuitong_1"
+  path: "map3Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map3_shuitong_2"
+  path: "map3Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map3_yinshuiji"
+  path: "map3Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map3_anmo"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_canting_1"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_canting_3"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_canting_4"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_gengyigui"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_gengyigui_1"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_guanggaoban"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_guanggaoban_1"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_guanggaoban_2"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_guanggaoban_3"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_6_1"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_6_2"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_6_3"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_6_4"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_shuiba_1"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_shuiba_2"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_shuiba_3"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_shuiba_4"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_zuliao_1"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_zuliao_2"
+  path: "map3Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map3_guanggaoban_4"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_guanggaoban_5"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_guanggaoban_6"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_guanggaoban_7"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_haibao_1"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_haibao_2"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_jinzhixiyan"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_7_1"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_7_2"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_7_3"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_7_4"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_qipai_1"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_qipai_2"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_qipai_3"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_qipai_4"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_youxiji_1"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_youxiji_2"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_youxiji_3_1"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_youxiji_3_2"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_youxiji_3_3"
+  path: "map3Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map3_KTV_1"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_KTV_2"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_KTV_3"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_KTV_4"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_KTV_5"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_KTV_6"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_KTV_7"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_KTV_dan_1"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_KTV_dan_2"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_KTV_dan_3"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_8_1"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_8_2"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_8_3"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_men_8_4"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_shugui_1"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_shugui_2"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map3_shugui_3"
+  path: "map3Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_cuozaotai"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_cuozaotai_nv"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_deng"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_guitai"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_guitai_1"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_1_1"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_1_2"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_menkou_1"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_menkou_3"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_qiang"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_qiangfeng"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_sangna"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_sangna_nv"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_sangnamen_1"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_sangnamen_1_nv"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_sangnamen_2"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_sangnamen_2_nv"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_shuxitai"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_shuxitai_dengzi"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_xilianpen"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_xiyu"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_xiyu_geban_1"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_xiyu_nv"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_yuangongmen"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_yuangongmen_1"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_yuchi"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_yuchi_2"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_yuchi_nv"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_yuchi_nv_1"
+  path: "map4Atlas1"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_2_1"
+  path: "map4Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_2_2"
+  path: "map4Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_3_1"
+  path: "map4Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_3_2"
+  path: "map4Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_4_1"
+  path: "map4Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_4_2"
+  path: "map4Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_5_1"
+  path: "map4Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_5_2"
+  path: "map4Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_5_3"
+  path: "map4Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_5_4"
+  path: "map4Atlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map4_dianshan"
+  path: "map4Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map4_huaping_1"
+  path: "map4Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map4_lideng_1"
+  path: "map4Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map4_penzai_1"
+  path: "map4Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map4_penzai_2"
+  path: "map4Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map4_penzai_3"
+  path: "map4Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map4_shanglou_you"
+  path: "map4Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map4_shanglou_zuo"
+  path: "map4Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map4_shizhong"
+  path: "map4Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map4_shuitong_2"
+  path: "map4Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map4_yinshuiji"
+  path: "map4Atlas100"
+  suffix: ".png"
+}
+items {
+  id: "map4_anmo"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_canting_1"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_canting_3"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_canting_4"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_gengyigui"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_gengyigui_1"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_guanggaoban"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_guanggaoban_1"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_guanggaoban_2"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_guanggaoban_3"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_6_1"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_6_2"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_6_3"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_6_4"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_shuiba_1"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_shuiba_2"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_shuiba_3"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_shuiba_4"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_zuliao_1"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_zuliao_2"
+  path: "map4Atlas2"
+  suffix: ".png"
+}
+items {
+  id: "map4_guanggaoban_4"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_guanggaoban_5"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_guanggaoban_6"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_guanggaoban_7"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_haibao_1"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_haibao_2"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_jinzhixiyan"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_7_1"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_7_2"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_7_3"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_7_4"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_qipai_1"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_qipai_2"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_qipai_3"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_qipai_4"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_youxiji_1"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_youxiji_2"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_youxiji_3_1"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_youxiji_3_2"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_youxiji_3_3"
+  path: "map4Atlas3"
+  suffix: ".png"
+}
+items {
+  id: "map4_KTV_1"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_KTV_2"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_KTV_3"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_KTV_4"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_KTV_5"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_KTV_6"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_KTV_7"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_KTV_dan_1"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_KTV_dan_2"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_KTV_dan_3"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_8_1"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_8_2"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_8_3"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_men_8_4"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_shugui_1"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_shugui_2"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map4_shugui_3"
+  path: "map4Atlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_xizaozhezhao"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_zawu_1"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_zawu_2"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_zawu_3"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_zawu_4"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_zawu_5"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_zawu_6"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_zawu_7"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_zawu_zhezhao"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_zhizhiwang_1"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_zhizhiwang_2"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_zhizhiwang_3"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map1_shanglou_you"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map1_shanglou_zuo"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "xiaofei_btn"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "xiaofei_di"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "zhezhao"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "zjm_dasaokuang1"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "zjm_dasaokuang2"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "zjm_dasaokuang3"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "zjm_dasaokuang4"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "zjm_dasaokuang5"
+  path: "mapAtlas_common"
+  suffix: ".png"
+}
+items {
+  id: "map_cuozaotai"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_cuozaotai_nv"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_deng"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_deng1"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_guitai"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_guitai_1"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_men_1_1"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_men_1_2"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_menkou_1"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_menkou_2"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_menkou_3"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_qiang"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_sangna"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_sangna_1"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_sangna_nv"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_sangnamen_1"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_sangnamen_1_nv"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_sangnamen_2"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_sangnamen_2_nv"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_shuxitai"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_shuxitai_dengzi"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_xilianpen"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_xiyu"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_xiyu_nv"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_yuangongmen"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_yuangongmen_1"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_yuchi"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_yuchi_1"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_yuchi_2"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_yuchi_nv"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_yuchi_nv_1"
+  path: "mapAtlas1"
+  suffix: ".png"
+}
+items {
+  id: "map_men_2_1"
+  path: "mapAtlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_2_2"
+  path: "mapAtlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_3_1"
+  path: "mapAtlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_3_2"
+  path: "mapAtlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_4_1"
+  path: "mapAtlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_4_2"
+  path: "mapAtlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_5_1"
+  path: "mapAtlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_5_2"
+  path: "mapAtlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_5_3"
+  path: "mapAtlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_5_4"
+  path: "mapAtlas1_2"
+  suffix: ".png"
+}
+items {
+  id: "map_dianshan"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_lideng_1"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_liefeng_1"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_liefeng_2"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_liefeng_3"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_penzai_1"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_penzai_2"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_penzai_3"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_shizhong"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_shuitong_1"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_shuitong_2"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_yinshuiji"
+  path: "mapAtlas100"
+  suffix: ".png"
+}
+items {
+  id: "map_anmo"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_canting_1"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_canting_2"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_canting_3"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_canting_4"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_gengyigui"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_gengyigui_1"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_guanggaoban"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_guanggaoban_1"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_guanggaoban_2"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_guanggaoban_3"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_6_1"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_6_2"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_6_3"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_men_6_4"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_shuiba_1"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_shuiba_2"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_shuiba_3"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_shuiba_4"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_zuliao_1"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_zuliao_2"
+  path: "mapAtlas2"
+  suffix: ".png"
+}
+items {
+  id: "map_guanggaoban_4"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_guanggaoban_5"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_guanggaoban_6"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_guanggaoban_7"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_haibao_1"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_haibao_2"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_jinzhixiyan"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_men_7_1"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_men_7_2"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_men_7_3"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_men_7_4"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_qipai_1"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_qipai_2"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_qipai_3"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_qipai_4"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_youxiji_1"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_youxiji_2"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_youxiji_3_1"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_youxiji_3_2"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_youxiji_3_3"
+  path: "mapAtlas3"
+  suffix: ".png"
+}
+items {
+  id: "map_KTV_1"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_KTV_2"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_KTV_3"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_KTV_4"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_KTV_5"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_KTV_6"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_KTV_7"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_KTV_dan_1"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_KTV_dan_2"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_KTV_dan_3"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_KTV_dan_4"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_men_8_1"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_men_8_2"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_men_8_3"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_men_8_4"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_shugui_1"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_shugui_2"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "map_shugui_3"
+  path: "mapAtlas4"
+  suffix: ".png"
+}
+items {
+  id: "changjing_caishen_1"
+  path: "mapCaishen"
+  suffix: ".png"
+}
+items {
+  id: "changjing_caishen_2"
+  path: "mapCaishen"
+  suffix: ".png"
+}
+items {
+  id: "changjing_caishen_3"
+  path: "mapCaishen"
+  suffix: ".png"
+}
+items {
+  id: "changjing_caishen_4"
+  path: "mapCaishen"
+  suffix: ".png"
+}
+items {
+  id: "zjm_chengjiutishi"
+  path: "mapCaishen"
+  suffix: ".png"
+}
+items {
+  id: "npc_liwu"
+  path: "NpcAd"
+  suffix: ".png"
+}
+items {
+  id: "npc_liwudi"
+  path: "NpcAd"
+  suffix: ".png"
+}
+items {
+  id: "lixian_paihang1"
+  path: "OfflineIncome"
+  suffix: ".png"
+}
+items {
+  id: "lixian_paihang2"
+  path: "OfflineIncome"
+  suffix: ".png"
+}
+items {
+  id: "lixian_paihang3"
+  path: "OfflineIncome"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_xin"
+  path: "OfflineIncome"
+  suffix: ".png"
+}
+items {
+  id: "gou"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "icon_suiji_bg"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "icon_suiji_bg1"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "icon_suiji_bg2"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "icon_suiji_kuanghuan"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "icon_suiji_qian"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "icon_suiji_tuangou"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "kuanghuan_1"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "kuanghuan_2"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "kuanghuan_3"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "kuanghuan_4"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "kuanghuan_5"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "kuanghuan_6"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "kuanghuan_7"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "maozi_you"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "maozi_zuo"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "pao1"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "pao2"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "pao3"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "qian1"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "qian2"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "qian3"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "ren1"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "ren2"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "shenzi"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "tou"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "tuan"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "yougebo"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "zuogebo"
+  path: "RandomAd"
+  suffix: ".png"
+}
+items {
+  id: "dengji_di"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "djts_tili"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "djts_zuan"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "gxhd_bg"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "gxhd_biaoqian01"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "gxhd_biaoqian02"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "gxhd_jinbi"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "gxhd_shouyi"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "huode_wupindi"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "shopback_1_lvup"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "shopback_2_lvup"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "shopback_3_lvup"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "shopback_4_lvup"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "shopback_5_lvup"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "shopback_6_lvup"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "whtd_icon_renqibig"
+  path: "RewardUI"
+  suffix: ".png"
+}
+items {
+  id: "com_pic__zhuanpan"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "com_pic__zhuanpanban"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "com_pic__zhuanpandeng"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "com_pic__zhuanpanzhizhen"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "com_pic__zhuanpanzuanshi"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_btn_choujiang"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_btn_guanbi"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_pic_baozhadi"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_pic_caidai"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_pic_deng"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_pic_dizuo"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_pic_jiantou"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_pic_qiu01"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_pic_qiu02"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_pic_qiu03"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_pic_xingxing"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_pic_zhuanpan"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "zp_txt_xingyunzhuanpan"
+  path: "Roulette"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_di"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_di2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_ding"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_gongzuozhong"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_huojia_jiagedi"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_huojia_jiagedi2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_huojia_shanghuo"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_huojiadi"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_huojiadi2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_icon_nanlinyu"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_jia"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_jindu"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_jindu2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_keren_di1"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_keren_di2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_keren_di3"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_keren_di4"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_keren_jia1"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_keren_jia2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_qingshao"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_shangchu"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_shanghuo"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_suo1"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_suo2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_wupindi1"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_wupindi2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_wupindi3"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_yuangong_di0"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_yuangong_di1"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_yuangong_di2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_yuangong_di3"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_yuangong_di4"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_yuangong_di5"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_yuangong_di6"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "icon_jianzao"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "wupindi_nan1"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "wupindi_nan2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "wupindi_nv1"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "wupindi_nv2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "wupindi_xuankuang"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "wupindi_yule1"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "wupindi_yule2"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_zuo"
+  path: "Shop"
+  suffix: ".png"
+}
+items {
+  id: "jineng_pic_caidai"
+  path: "ShopActiveSkill"
+  suffix: ".png"
+}
+items {
+  id: "jineng_pic_di"
+  path: "ShopActiveSkill"
+  suffix: ".png"
+}
+items {
+  id: "jineng_pic_laba"
+  path: "ShopActiveSkill"
+  suffix: ".png"
+}
+items {
+  id: "jineng_pic_labasheng"
+  path: "ShopActiveSkill"
+  suffix: ".png"
+}
+items {
+  id: "jineng_pic_lihua"
+  path: "ShopActiveSkill"
+  suffix: ".png"
+}
+items {
+  id: "jineng_pic_tuhao"
+  path: "ShopActiveSkill"
+  suffix: ".png"
+}
+items {
+  id: "jineng_txt_nianzhongdacu"
+  path: "ShopActiveSkill"
+  suffix: ".png"
+}
+items {
+  id: "jineng_txt_tuhaosaqian"
+  path: "ShopActiveSkill"
+  suffix: ".png"
+}
+items {
+  id: "skin_canting1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_canting11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_canting2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_canting3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_canting4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_KTV1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_KTV11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_KTV2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_KTV3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_KTV4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_menmian1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_menmian11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_menmian2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_menmian3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_menmian4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nananmoqu1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nananmoqu11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nananmoqu2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nananmoqu3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nananmoqu4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nancuozaoqu1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nancuozaoqu11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nancuozaoqu2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nancuozaoqu3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nancuozaoqu4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nanlinyu1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nanlinyu11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nanlinyu2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nanlinyu3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nanlinyu4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nanpaozaoqu1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nanpaozaoqu11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nanpaozaoqu2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nanpaozaoqu3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nanpaozaoqu4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nansangnaqu1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nansangnaqu11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nansangnaqu2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nansangnaqu3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nansangnaqu4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvcuozaoqu1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvcuozaoqu11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvcuozaoqu2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvcuozaoqu3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvcuozaoqu4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvlinyu1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvlinyu11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvlinyu2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvlinyu3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvlinyu4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvpaozaoqu1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvpaozaoqu11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvpaozaoqu2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvpaozaoqu3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvpaozaoqu4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvsangnaqu1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvsangnaqu11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvsangnaqu2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvsangnaqu3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_nvsangnaqu4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_qiantai1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_qiantai11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_qiantai2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_qiantai3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_qiantai4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_qipai1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_qipai11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_qipai2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_qipai3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_qipai4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_shudian1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_shudian11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_shudian2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_shudian3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_shudian4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_shuiba1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_shuiba11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_shuiba2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_shuiba3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_shuiba4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiuxiannangeng1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiuxiannangeng11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiuxiannangeng2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiuxiannangeng3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiuxiannangeng4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiuxiannvgeng1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiuxiannvgeng11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiuxiannvgeng2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiuxiannvgeng3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiuxiannvgeng4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiyunangeng1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiyunangeng11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiyunangeng2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiyunangeng3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiyunangeng4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiyunvgeng1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiyunvgeng11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiyunvgeng2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiyunvgeng3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_xiyunvgeng4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_youxi1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_youxi11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_youxi2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_youxi3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_youxi4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_zuliao1"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_zuliao11"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_zuliao2"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_zuliao3"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "skin_zuliao4"
+  path: "ShopDecorateIcon"
+  suffix: ".png"
+}
+items {
+  id: "dianpu_btn_zhuangxiu"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_huizhang1"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_huizhang2"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_huizhang3"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_icon"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon1"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon10"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon11"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon12"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon13"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon2"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon3"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon4"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon5"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon6"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon7"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon8"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_jiacheng_icon9"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_kuang_jiesuo"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_kuang_shiyong1"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_kuang_shiyong2"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_kuang_suo"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_suo"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_suo2"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_xiangqing_kuang1"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_xiangqing_kuang2"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "zhuangxiu_xiangqing_kuang3"
+  path: "ShopDecoration1"
+  suffix: ".png"
+}
+items {
+  id: "shopback_1"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopback_2"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopback_3"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopback_4"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopback_6"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopback_7"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_1"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_10"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_11"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_12"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_13"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_14"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_15"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_16"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_17"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_18"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_19"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_2"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_20"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_21"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_3"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_4"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_5"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_6"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_7"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_8"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_9"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_absent_1"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_absent_2"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shopicon_absent_3"
+  path: "ShopIcon"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_anmo"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_babaxifashui"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_bojicao"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_changxiaoshu"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_chonglang"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_cuozao"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_doudizhu"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_gaijiaofan"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_guanzhuangkuaileshui"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_guanzhuangxuebi"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_haifeisi"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_huati"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_kushuangguozhi"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_liuxingquku"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_paobu"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_shendun"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_tiaosheng"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_wotui"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_xiujiaozuyu"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_youxiji"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_youyong"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_yujia"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_cuxiao_zaotangmaojin"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_1"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_10"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_11"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_12"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_13"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_14"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_15"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_16"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_17"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_18"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_19"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_2"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_20"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_21"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_22"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_23"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_24"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_25"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_26"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_27"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_28"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_29"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_3"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_30"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_31"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_32"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_33"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_34"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_35"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_36"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_37"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_38"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_39"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_4"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_40"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_42"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_43"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_44"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_45"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_46"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_47"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_48"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_49"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_5"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_50"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_51"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_52"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_53"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_54"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_55"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_56"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_57"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_58"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_59"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_6"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_60"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_61"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_62"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_63"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_64"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_65"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_66"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_67"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_68"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_69"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_7"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_70"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_71"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_72"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_73"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_74"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_75"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_76"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_8"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "shop_skill_9"
+  path: "ShopSkill"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_icon_xiangqing"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_pic_duigou"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_pic_faguang"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_pic_jianglidi"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_pic_jindu"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_pic_jindutiao"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_pic_juese01"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_pic_juese02"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_pic_lansedikuang"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_pic_yuandi"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_pic_zhezhao"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_pic_zisedikuang"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_txt_denglu2tian"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_txt_denglu7tian"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_txt_ewailingqu"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "qiandao_txt_ewailingqu2"
+  path: "SignIn"
+  suffix: ".png"
+}
+items {
+  id: "npc_daojishi_bg"
+  path: "SpecialNpc"
+  suffix: ".png"
+}
+items {
+  id: "npc_shengqi1"
+  path: "SpecialNpc"
+  suffix: ".png"
+}
+items {
+  id: "npc_shengqi2"
+  path: "SpecialNpc"
+  suffix: ".png"
+}
+items {
+  id: "teshu_tu"
+  path: "SpecialNpc"
+  suffix: ".png"
+}
+items {
+  id: "zjm_jindu_xiuli"
+  path: "SpecialNpc"
+  suffix: ".png"
+}
+items {
+  id: "zjm_npc_jindu1"
+  path: "SpecialNpc"
+  suffix: ".png"
+}
+items {
+  id: "zjm_npc_jindu2"
+  path: "SpecialNpc"
+  suffix: ".png"
+}
+items {
+  id: "shop_bg"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_btn_bg"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_di"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_ding"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_libao_bg0"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_libao_bg1"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_libao_bg2"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_libao_bg3"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_libao_biaoti"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_libaobiaoti_bg1"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_libaobiaoti_bg2"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_libaobiaoti_bg3"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_mianfei"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_tips"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_tips2"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_wenhao"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_wupindi"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "shop_xianshi"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "sjop_denglong"
+  path: "Store"
+  suffix: ".png"
+}
+items {
+  id: "juqing_biaotidi"
+  path: "Story"
+  suffix: ".png"
+}
+items {
+  id: "juqing_duihuakuang1"
+  path: "Story"
+  suffix: ".png"
+}
+items {
+  id: "juqing_duihuakuang2"
+  path: "Story"
+  suffix: ".png"
+}
+items {
+  id: "juqing_jianglidi"
+  path: "Story"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_di1"
+  path: "Story"
+  suffix: ".png"
+}
+items {
+  id: "tanchuang_di2"
+  path: "Story"
+  suffix: ".png"
+}
+items {
+  id: "touxiang_bingbing"
+  path: "Story"
+  suffix: ".png"
+}
+items {
+  id: "touxiang_sicong"
+  path: "Story"
+  suffix: ".png"
+}
+items {
+  id: "touxiangkuang1"
+  path: "Story"
+  suffix: ".png"
+}
+items {
+  id: "touxiangkuang2"
+  path: "Story"
+  suffix: ".png"
+}
+items {
+  id: "renwu_baoxiang_bg"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_bg"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_bg2"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_bianqian"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_biaoti"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_di"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_dian1"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_dian2"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_dian3"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_dian4"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_dian5"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_dingbu"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_ewaipeisong"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_fengexian"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_jiasu"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_lijidaohuo"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_peisong1"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_peisong2"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_peisong3"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_qipao"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_qipao_jindu"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_time"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "renwu_time_di"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "tiaozhan_bg"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "tiaozhan_zuijia"
+  path: "Task"
+  suffix: ".png"
+}
+items {
+  id: "whtd_btn_dashang"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_btn_guanbi"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_btn_jiantou"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_icon"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_icon_lingdang"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_icon_renqi"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_icon_tongdian1x1_01"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_icon_tongdian1x2_01"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_icon_tongdian2x2_01"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_ban"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_banshen"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_di"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_dikuang"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_huojian"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_jiantou"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_jindu"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_jishi"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_manyidu"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_mingzikuang"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_quan"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_touxiang"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_touxiang1"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_weijiesuotouxiang"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_wenhao"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_xin"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_xingxing"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_xuan01"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_xuan02"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_xuan03"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_xuanzhongkuang"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_yinying"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_zhezhao"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_tips"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_tongdian2x2_01"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_tongdian2x2_02"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_txt_dianji"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_txt_manyidutisheng"
+  path: "VipGame"
+  suffix: ".png"
+}
+items {
+  id: "whtd_icon_guanbi"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_icon_zan"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_dadikuang"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_heiquan"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_wanghong01"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_wanghong02"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_wanghong03"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_weijiesuojuese"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_weijiesuojuese02"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_weijiesuojuese03"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_yuan"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_txt_dianjizhiliao"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_txt_fuwushibai"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_txt_fuwuwancheng"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_txt_jinkeneng"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_txt_wanmeifuwu"
+  path: "VipGame2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_bei"
+  path: "VipGameBg1"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_tui01"
+  path: "VipGameBg1"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_beizi"
+  path: "VipGameBg2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_bj"
+  path: "VipGameBg2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_jiao"
+  path: "VipGameBg2"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_2bei"
+  path: "VipGameBg3"
+  suffix: ".jpg"
+}
+items {
+  id: "whtd_pic_2tui01"
+  path: "VipGameBg3"
+  suffix: ".jpg"
+}
+items {
+  id: "whtd_pic_2jiao"
+  path: "VipGameBg4"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_3jiao"
+  path: "VipGameBg4"
+  suffix: ".png"
+}
+items {
+  id: "whtd_pic_3bei"
+  path: "VipGameBg5"
+  suffix: ".jpg"
+}
+items {
+  id: "whtd_pic_3tui01"
+  path: "VipGameBg5"
+  suffix: ".jpg"
+}

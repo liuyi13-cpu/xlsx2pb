@@ -1,0 +1,72 @@
+syntax = "proto3";
+
+import "tsv2pb.proto";
+import "keywords.proto";
+import "keywords_client.proto";
+
+package RES;
+
+message ResItem {
+    option (mapping) = "物品表#res_item";
+    int32 id = 1 [(field) = "物品ID"];
+    string name = 2 [(field) = "物品名称"];
+    string icon = 3 [(field) = "UI图标"];
+    string image = 4 [(field) = "场景图标"];
+    string desc = 5 [(field) = "物品描述"];
+    int32 type = 6 [(field) = "物品类型"];
+    int32 timePre = 7 [(field) = "购买前等待时间"];
+    int32 timeAfter = 8 [(field) = "购买后等待时间"];
+}
+message ResItemArray {
+    repeated ResItem items = 1;
+}
+
+
+message ResItemBag {
+    option (mapping) = "物品包表#res_item_bag";
+    int32 id = 1 [(field) = "id"];
+    int32 type = 2 [(field) = "种类"];
+    int32 typeId = 3 [(field) = "类型ID"];
+    repeated int32 drop_array = 4 [(field) = "掉落"];
+    repeated int32 drop_count_array = 5 [(field) = "掉落count"];
+    string icon = 6 [(field) = "UI显示"];
+}
+message ResItemBagArray {
+    repeated ResItemBag items = 1;
+}
+
+
+message ResItemDrop {
+    option (mapping) = "物品掉落表#res_item_drop";
+    int32 id = 1 [(field) = "id"];
+    int32 dropType = 2 [(field) = "掉落类型"];
+    string image = 3 [(field) = "场景显示"];
+    int32 sellExp = 4 [(field) = "带货经验"];
+    int32 rewardProbability1 = 5 [(field) = "奖励1概率"];
+    repeated ResReward reward1_list = 6 [(field) = "奖励1"];
+    int32 rewardProbability2 = 7 [(field) = "奖励2概率"];
+    repeated ResReward reward2_list = 8 [(field) = "奖励2"];
+}
+message ResItemDropArray {
+    repeated ResItemDrop items = 1;
+}
+
+
+message ResItemRange {
+    option (mapping) = "物品范围表#res_item_range";
+    int32 id = 1 [(field) = "澡堂等级"];
+    int32 coins_min = 2 [(field) = "金币下限"];
+    int32 coins_max = 3 [(field) = "金币上限"];
+    int32 diamond_min = 4 [(field) = "钻石下限"];
+    int32 diamond_max = 5 [(field) = "钻石上限"];
+    int32 exp_min = 6 [(field) = "经验下限"];
+    int32 exp_max = 7 [(field) = "经验上限"];
+    int32 power_min = 8 [(field) = "体力下限"];
+    int32 power_max = 9 [(field) = "体力上限"];
+    int32 ach_point_min = 10 [(field) = "成就点下限"];
+    int32 ach_point_max = 11 [(field) = "成就点上限"];
+}
+message ResItemRangeArray {
+    repeated ResItemRange items = 1;
+}
+

@@ -1,0 +1,17 @@
+Library/
+Logs/
+Temp/
+.idea/
+.vs/
+.vsconfig
+obj/
+*.csproj
+Custom/tool_gen/res/tsv/
+Custom/tool_gen/res/tsv2pb.log
+/Assets/XLua/tmp.txt
+/Assets/XLua/tmp.txt.meta
+Custom/tool_gen/res/store/client/
+Assets/StreamingAssets/res/
+Assets/StreamingAssets/res.meta
+*.sln
+Output/

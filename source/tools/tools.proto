@@ -1,0 +1,66 @@
+syntax = "proto3";
+
+package TOOL;
+
+message CheckLabel {
+  string check_label = 1;
+  string check_string = 2;
+}
+
+message CheckLabelArray {
+  repeated CheckLabel check_label_array = 1;
+}
+
+message CheckLabelCommand {
+  bool key = 1;                            // 单表检查字段唯一性,可以配置多个字段，比如双key的情况，表示两个key联合后不允许重复出现
+  bool empty_skip = 2;                     // 字段为空可跳过检查
+  bool data_not_empty = 3;                 // 检查字段是否不为空
+  bool data_unique = 4;                    // 检查字段内容唯一性
+  string unique = 5;                       // 多表联合检查字段唯一性
+  bool le_right = 6;                       // 小于等于右边字段
+  bool lt_right = 7;                       // 小于右边字段
+  bool check_from_right = 8;               // 按值进行检查
+  string unique_field = 9;                 // 检查本列字段是否只含有唯一的字段
+  repeated string range = 10;              // 数值范围检查(简单)
+
+  repeated CheckLabelCommandNum num = 11;
+  repeated CheckLabelCommandRef ref = 12;
+}
+
+// 表字段引用约束
+message CheckLabelCommandRef {
+  string table = 1;           // 表名
+  string field = 2;           // 字段
+  string apply = 3;           // 适用于左列的哪些数据
+}
+
+// 数值范围检查(带适用字段)
+message CheckLabelCommandNum {
+  string range = 1;           // 范围
+  string apply = 2;           // 适用于左列的哪些数据
+}
+
+
+
+// 原始数据
+message XlsxDataArray {
+  repeated string values = 1;
+}
+
+// 处理过的数据
+message XlsxValue {
+  string field = 1;                                   // 字段
+  repeated string value = 2;                          // 普通value
+  map<string, XlsxValue> struct_value = 3;            // 结构value
+}
+message XlsxValueMap {
+  map<string, XlsxValue> value_map = 1;
+}
+
+message XlsxData {
+  string xlsxName = 1;
+  repeated string field_list = 2;                     // 字段
+  map<int32, CheckLabelCommand> checklabel_map = 3;   // 检表数据
+  repeated XlsxDataArray original_value_list = 4;     // data
+  repeated XlsxValueMap processed_value_list = 5;     // 处理过的数据
+}

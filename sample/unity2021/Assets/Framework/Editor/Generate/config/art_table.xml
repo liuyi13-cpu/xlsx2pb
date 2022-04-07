@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbtable>
+    <!--
+    0=根目录 1=子目录 2=子目录平铺
+    -->
+    <!--声音-->
+    <item source_path="音效" target_path="Resource/ABResources/Sounds" suffix="*.*" sub_dir="1" />
+
+    <!--spine动画-->
+    <item source_path="美术/spine动画/新" target_path="Arts/Spine/Role" suffix="*.*" sub_dir="1" />
+    <item source_path="美术/spine动画/场景资源-楼上" target_path="Arts/Spine/scene" suffix="*.*" sub_dir="1" />
+    
+    <!--场景资源-通用-->
+    <item source_path="美术/场景资源/通用" target_path="Resource/ABResources/UIAtlas/mapAtlas_common" suffix="*.png" sub_dir="0" />
+    
+    <!--场景资源1-->
+    <item source_path="美术/场景资源/按摩-足疗-水吧餐厅/other" target_path="Resource/ABResources/UIAtlas/mapAtlas2" suffix="*.png" sub_dir="2" />
+    <item source_path="美术/场景资源/按摩-足疗-水吧餐厅/bg" target_path="Resource/ABResources/Map/bg/home_1" suffix="*.png" sub_dir="0" />
+    <item source_path="美术/场景资源/大厅-洗澡-桑拿/other" target_path="Resource/ABResources/UIAtlas/mapAtlas1" suffix="*.png" sub_dir="2" />
+    <item source_path="美术/场景资源/大厅-洗澡-桑拿/map2" target_path="Resource/ABResources/UIAtlas/mapAtlas1_2" suffix="*.png" sub_dir="0" />
+    <item source_path="美术/场景资源/大厅-洗澡-桑拿/bg" target_path="Resource/ABResources/Map/bg/home_1" suffix="*.png" sub_dir="0" />
+    <item source_path="美术/场景资源/棋牌-游戏厅/other" target_path="Resource/ABResources/UIAtlas/mapAtlas3" suffix="*.png" sub_dir="2" />
+    <item source_path="美术/场景资源/棋牌-游戏厅/bg" target_path="Resource/ABResources/Map/bg/home_1" suffix="*.png" sub_dir="0" />
+    <item source_path="美术/场景资源/书吧-KTV/other" target_path="Resource/ABResources/UIAtlas/mapAtlas4" suffix="*.png" sub_dir="2" />
+    <item source_path="美术/场景资源/书吧-KTV/bg" target_path="Resource/ABResources/Map/bg/home_1" suffix="*.png" sub_dir="0" />
+    <item source_path="美术/场景资源/装饰" target_path="Resource/ABResources/UIAtlas/mapAtlas100" suffix="*.png" sub_dir="0" />
+    <item source_path="美术/场景资源/财神" target_path="Resource/ABResources/UIAtlas/mapCaishen" suffix="*.png" sub_dir="0" />
+    
+</dbtable>

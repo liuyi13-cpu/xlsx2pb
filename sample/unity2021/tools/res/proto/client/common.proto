@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+import "tsv2pb.proto";
+import "keywords.proto";
+import "keywords_client.proto";
+
+package RES;
+
+message ResSprite {
+    option (mapping) = "图片资源表#res_sprite";
+    string id = 1 [(field) = "名字"];
+    string path = 2 [(field) = "路径"];
+    string suffix = 3 [(field) = "后缀"];
+    int32 type = 4 [(field) = "类型"];
+}
+message ResSpriteArray {
+    repeated ResSprite items = 1;
+}
+
+message ResErrorCode {
+    option (mapping) = "错误码表#res_error_code";
+    int32 id = 1 [(field) = "错误码"];
+    string title = 2 [(field) = "标题"];
+    string text = 3 [(field) = "文本"];
+    int32 type = 4 [(field) = "类型"];
+}
+message ResErrorCodeArray {
+    repeated ResErrorCode items = 1;
+}

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "tsv2pb.proto";
+import "keywords.proto";
+import "keywords_client.proto";
+
+package RES;
+
+message ResText {
+    option (mapping) = "文本表#res_text_cn";
+    option (mapping) = "文本表#res_text_en";
+    string id = 1 [(field) = "id"];
+    string text = 2 [(field) = "简体中文#res_text_cn", (field) = "英文#res_text_en"];
+}
+message ResTextArray {
+    repeated ResText items = 1;
+}

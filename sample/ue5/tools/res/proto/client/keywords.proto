@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+import "tsv2pb.proto";
+
+package RES;
+
+message ResReward {
+  int32 weight = 1 [(field) = "权重"];
+  ItemType type = 2 [(field) = "类型"];
+  int32 proportion = 3 [(field) = "比例"];
+}
+
+enum ItemType {
+  ItemType_invalid = 0;
+  ItemType_coin = 1 [(name) = "钞票"];
+  ItemType_diamond = 2 [(name) = "钻石"];
+  ItemType_exp = 3 [(name) = "经验"];
+  ItemType_enenry = 4 [(name) = "体力"];
+  ItemType_achievement_point = 5 [(name) = "成就点"];
+  ItemType_fish = 6 [(name) = "鱼"];
+  ItemType_flower = 7 [(name) = "花"];
+}
+
+enum UnlockFunction {
+  UnlockFunction_Invalid = 0;
+  UnlockFunction_Task = 1 [(name) = "任务"];
+  UnlockFunction_FreeDiamond = 2 [(name) = "免费钻石"];
+  UnlockFunction_FreeBox = 3 [(name) = "免费宝箱"];
+  UnlockFunction_FreeGift = 4 [(name) = "免费礼包"];
+  UnlockFunction_RemoveClerk = 5 [(name) = "撤下员工"];
+  UnlockFunction_WeakTip = 6 [(name) = "小助手"];
+  UnlockFunction_VipGame = 7 [(name) = "小游戏"];
+  UnlockFunction_AutoGuest = 8 [(name) = "自动顾客生成"];
+  UnlockFunction_Homeworld = 9 [(name) = "家园入口"];
+  UnlockFunction_DailyTask = 10 [(name) = "每日任务"];
+  UnlockFunction_Flowerbed1 = 11 [(name) = "花圃1"];
+  UnlockFunction_Flowerbed2 = 12 [(name) = "花圃2"];
+  UnlockFunction_Flowerbed3 = 13 [(name) = "花圃3"];
+  UnlockFunction_Flowerbed4 = 14 [(name) = "花圃4"];
+  UnlockFunction_Pet = 15 [(name) = "宠物功能"];
+  UnlockFunction_Fish = 16 [(name) = "钓鱼"];
+  UnlockFunction_ShopClose = 17 [(name) = "店铺关闭"];
+  UnlockFunction_GiftCode = 20 [(name) = "礼包码"];
+  UnlockFunction_Achievement = 21 [(name) = "成就"];
+  UnlockFunction_HomeMore = 22 [(name) = "首页侧边栏"];
+  UnlockFunction_Roulette = 23 [(name) = "幸运转盘"];
+  UnlockFunction_SignIn = 24 [(name) = "七日签到"];
+  UnlockFunction_Home2 = 25 [(name) = "场景2"];
+  UnlockFunction_GuestCollect = 26 [(name) = "顾客图鉴"];
+  UnlockFunction_DeleteGuestEffect = 27 [(name) = "拉客增强特效删除"];
+  UnlockFunction_Decoration = 29 [(name) = "澡堂形象"];
+}

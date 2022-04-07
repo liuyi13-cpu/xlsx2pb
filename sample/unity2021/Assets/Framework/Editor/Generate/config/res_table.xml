@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbtable>
+    <!--
+    key 参数说明
+        id:string                   单主键 命名:类型
+        id:string;path:string       双主键 命名1:类型1;命名2:类型2;
+        
+    type 参数说明
+        0=C#+Lua 
+        1=C# 
+        2=Lua 
+    -->
+    <Module desc="表数据" path="excel_data">
+        <!--通用-->
+        <item desc="图片资源表" class="ResSprite" key="id:string" filename="res_sprite" type="0" />
+        <item desc="错误码表" class="ResErrorCode" key="id:int" filename="res_error_code" type="0" />
+        
+        <!--物品-->
+        <item desc="道具表" class="ResItem" key="id:int" filename="res_item" type="0" />
+        <item desc="物品包表" class="ResItemBag" key="id:int" filename="res_item_bag" type="2" />
+        <item desc="物品掉落表" class="ResItemDrop" key="id:int" filename="res_item_drop" type="2" />
+        <item desc="物品范围表" class="ResItemRange" key="id:int" filename="res_item_range" type="2" />
+    </Module>
+</dbtable>

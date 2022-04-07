@@ -1,0 +1,149 @@
+items {
+  id: 2
+  title: "RET_SERVER_PARAMS_ERROR"
+  text: "参数错误"
+  type: 1
+}
+items {
+  id: 10
+  title: "RET_GM_ERROR"
+  text: "GM指令无效"
+  type: 1
+}
+items {
+  id: 11
+  title: "RET_GM_CMD_ERROR"
+  text: "GM指令参数错误"
+  type: 1
+}
+items {
+  id: 100
+  title: "RET_CURRENCY_COIN_NOT_ENOUGH"
+  text: "钞票不足"
+  type: 1
+}
+items {
+  id: 101
+  title: "RET_CURRENCY_DIAMOND_NOT_ENOUGH"
+  text: "钻石不足"
+  type: 1
+}
+items {
+  id: 102
+  title: "RET_CURRENCY_ENERGY_NOT_ENOUGH"
+  text: "体力不足"
+  type: 1
+}
+items {
+  id: 110
+  title: "RET_HOMEWORLD_FISH_TIMES_NOT_ENOUGH"
+  text: "钓鱼次数不足"
+  type: 1
+}
+items {
+  id: 111
+  title: "RET_HOMEWORLD_MODULE_LEVEL_IS_MAX"
+  text: "模块已达等级上限"
+  type: 1
+}
+items {
+  id: 112
+  title: "RET_HOMEWORLD_MAX_STORE"
+  text: "仓库已满，无法收获"
+  type: 1
+}
+items {
+  id: 113
+  title: "RET_HOMEWORLD_SALE_NOT_ENOUGH"
+  text: "商品不足"
+  type: 1
+}
+items {
+  id: 114
+  title: "RET_HOMEWORLD_FISH_AD_CD"
+  text: "钓鱼广告CD冷却中"
+  type: 1
+}
+items {
+  id: 115
+  title: "RET_HOMEWORLD_CAT_NOT_IDLE"
+  text: "宠物还没有准备好"
+  type: 1
+}
+items {
+  id: 116
+  title: "RET_HOMEWORLD_CAT_NOT_GOHOME"
+  text: "宠物奖励领取失败"
+  type: 1
+}
+items {
+  id: 120
+  title: "RET_SHOPSKILL_CD"
+  text: "店铺技能冷却中"
+  type: 1
+}
+items {
+  id: 121
+  title: "RET_SHOP_SKILL_NO_GUEST"
+  text: "顾客不存在"
+  type: 1
+}
+items {
+  id: 122
+  title: "RET_SHOP_NO_CLERK"
+  text: "员工不存在，自动补货失败"
+  type: 1
+}
+items {
+  id: 123
+  title: "RET_SHOP_NO_FIT"
+  text: "店铺未装配"
+}
+items {
+  id: 124
+  title: "RET_SHOP_LOCK"
+  text: "店铺未解锁"
+}
+items {
+  id: 125
+  title: "RET_SHOP_CLOSE"
+  text: "当前店铺已关闭"
+}
+items {
+  id: 126
+  title: "RET_SHOP_NO"
+  text: "店铺不存在"
+  type: 1
+}
+items {
+  id: 127
+  title: "RET_SHOP_REPAIR"
+  text: "店铺正在装修"
+}
+items {
+  id: 128
+  title: "RET_SHOP_BUILDING"
+  text: "店铺正在建造"
+}
+items {
+  id: 129
+  title: "RET_SHOP_FULL"
+  text: "客人已满，请扩建客人空间"
+}
+items {
+  id: 130
+  title: "RET_SHOP_NO_SLOT"
+  text: "没有槽位"
+}
+items {
+  id: 131
+  title: "RET_SHOP_WRONG_STATUS"
+  text: "店铺状态错误"
+  type: 1
+}
+items {
+  id: 140
+  title: "RET_GUESTCOLLECT_REWARD_GOT"
+  text: "顾客会员等级提升时可领取奖励"
+  type: 1
+}

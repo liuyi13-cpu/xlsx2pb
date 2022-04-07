@@ -1,0 +1,390 @@
+items {
+  id: 1
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 2
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 3
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 4
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 5
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 6
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 7
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 8
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 9
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 10
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 11
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 12
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 13
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 14
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 15
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 16
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 17
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 18
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 19
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 20
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 21
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 22
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 23
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 24
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 25
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 26
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 27
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 28
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 29
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}
+items {
+  id: 30
+  coins_min: 1
+  coins_max: 1
+  diamond_min: 1
+  diamond_max: 1
+  exp_min: 1
+  exp_max: 1
+  power_min: 1
+  power_max: 1
+  ach_point_min: 1
+  ach_point_max: 1
+}

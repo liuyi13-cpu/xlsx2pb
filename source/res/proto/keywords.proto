@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+import "tsv2pb.proto";
+
+package RES;
+
+message ResReward {
+  int32 weight = 1 [(field) = "权重"];
+  ItemType type = 2 [(field) = "类型"];
+  int32 proportion = 3 [(field) = "比例"];
+}
+
+enum ItemType {
+  ItemType_invalid = 0;
+  ItemType_coin = 1 [(name) = "钞票"];
+  ItemType_diamond = 2 [(name) = "钻石"];
+  ItemType_exp = 3 [(name) = "经验"];
+  ItemType_enenry = 4 [(name) = "体力"];
+  ItemType_achievement_point = 5 [(name) = "成就点"];
+  ItemType_fish = 6 [(name) = "鱼"];
+  ItemType_flower = 7 [(name) = "花"];
+}

@@ -1,0 +1,134 @@
+物品ID	物品名称	UI图标	场景图标	物品描述	物品类型	购买前等待时间	购买后等待时间
+key:true		活动时间			1-金币\n2-钻石\n3-经验\n4-体力\n5-成就点\n6-鱼\n7-花\n11-技能点\n12-金币x2buff	单位为秒	等于消费动画时间（搓澡、泡澡、洗头等）
+key:true							
+1	钞票	com_pic_jinbi	com_pic_jinbi	游戏币，可购买游戏内的道具	1		
+2	钻石	com_pic_zuanshi	com_pic_zuanshi	充值获得，可购买游戏内道具	2		
+3	经验	icon_jingyan	icon_jingyan	澡堂升级所需经验	3		
+4	体力	com_pic_nengliang	com_pic_nengliang	招揽客人消耗体力	4		
+5	成就点	icon_chengjiu	icon_chengjiu	成就点	5		
+100	钞票(大)	gxhd_jinbi	gxhd_jinbi	游戏币，可购买游戏内的道具	1		
+101	小游戏人气	whtd_icon_renqibig	whtd_icon_renqibig	小游戏人气	101		
+2001	普通技能点	yg_icon_jinengdian	yg_icon_jinengdian	普通技能点	11		
+2002	高级技能点	yg_icon_jinengdian	yg_icon_jinengdian	高级技能点	11		
+2003	特级技能点	yg_icon_jinengdian	yg_icon_jinengdian	特级技能点	11		
+3001	收益翻倍	gxhd_shouyi	gxhd_shouyi	收益翻倍	12		
+1011	锦鲤 Lv.1	jiayuan_item_yu1	jiayuan_item_yu1	售卖可获得钻石，有几率获得钞票，升级后奖励提高。	6	1	2
+1012	锦鲤 Lv.2	jiayuan_item_yu1	jiayuan_item_yu1	售卖可获得钻石，有几率获得钞票，升级后奖励提高。	6	1	2
+1013	锦鲤 Lv.3	jiayuan_item_yu1	jiayuan_item_yu1	售卖可获得钻石，有几率获得钞票，升级后奖励提高。	6	1	2
+1014	锦鲤 Lv.4	jiayuan_item_yu1	jiayuan_item_yu1	售卖可获得钻石，有几率获得钞票，升级后奖励提高。	6	1	2
+1015	锦鲤 Lv.5	jiayuan_item_yu1	jiayuan_item_yu1	售卖可获得钻石，有几率获得钞票，升级后奖励提高。	6	1	2
+1016	锦鲤 Lv.6	jiayuan_item_yu1	jiayuan_item_yu1	售卖可获得钻石，有几率获得钞票，升级后奖励提高。	6	1	2
+1017	锦鲤 Lv.7	jiayuan_item_yu1	jiayuan_item_yu1	售卖可获得钻石，有几率获得钞票，升级后奖励提高。	6	1	2
+1018	锦鲤 Lv.8	jiayuan_item_yu1	jiayuan_item_yu1	售卖可获得钻石，有几率获得钞票，升级后奖励提高。	6	1	2
+1019	锦鲤 Lv.9	jiayuan_item_yu1	jiayuan_item_yu1	售卖可获得钻石，有几率获得钞票，升级后奖励提高。	6	1	2
+1020	锦鲤 Lv.10	jiayuan_item_yu1	jiayuan_item_yu1	售卖可获得钻石，有几率获得钞票，升级后奖励提高。	6	1	2
+1021	螃蟹 Lv.1	jiayuan_item_yu3	jiayuan_item_yu3	售卖可获得钻石，有几率获得经验，升级后奖励提高。	6	1	2
+1022	螃蟹 Lv.2	jiayuan_item_yu3	jiayuan_item_yu3	售卖可获得钻石，有几率获得经验，升级后奖励提高。	6	1	2
+1023	螃蟹 Lv.3	jiayuan_item_yu3	jiayuan_item_yu3	售卖可获得钻石，有几率获得经验，升级后奖励提高。	6	1	2
+1024	螃蟹 Lv.4	jiayuan_item_yu3	jiayuan_item_yu3	售卖可获得钻石，有几率获得经验，升级后奖励提高。	6	1	2
+1025	螃蟹 Lv.5	jiayuan_item_yu3	jiayuan_item_yu3	售卖可获得钻石，有几率获得经验，升级后奖励提高。	6	1	2
+1026	螃蟹 Lv.6	jiayuan_item_yu3	jiayuan_item_yu3	售卖可获得钻石，有几率获得经验，升级后奖励提高。	6	1	2
+1027	螃蟹 Lv.7	jiayuan_item_yu3	jiayuan_item_yu3	售卖可获得钻石，有几率获得经验，升级后奖励提高。	6	1	2
+1028	螃蟹 Lv.8	jiayuan_item_yu3	jiayuan_item_yu3	售卖可获得钻石，有几率获得经验，升级后奖励提高。	6	1	2
+1029	螃蟹 Lv.9	jiayuan_item_yu3	jiayuan_item_yu3	售卖可获得钻石，有几率获得经验，升级后奖励提高。	6	1	2
+1030	螃蟹 Lv.10	jiayuan_item_yu3	jiayuan_item_yu3	售卖可获得钻石，有几率获得经验，升级后奖励提高。	6	1	2
+1031	小龙虾 Lv.1	jiayuan_item_yu2	jiayuan_item_yu2	售卖可获得钻石，有几率获得体力，升级后奖励提高。	6	1	2
+1032	小龙虾 Lv.2	jiayuan_item_yu2	jiayuan_item_yu2	售卖可获得钻石，有几率获得体力，升级后奖励提高。	6	1	2
+1033	小龙虾 Lv.3	jiayuan_item_yu2	jiayuan_item_yu2	售卖可获得钻石，有几率获得体力，升级后奖励提高。	6	1	2
+1034	小龙虾 Lv.4	jiayuan_item_yu2	jiayuan_item_yu2	售卖可获得钻石，有几率获得体力，升级后奖励提高。	6	1	2
+1035	小龙虾 Lv.5	jiayuan_item_yu2	jiayuan_item_yu2	售卖可获得钻石，有几率获得体力，升级后奖励提高。	6	1	2
+1036	小龙虾 Lv.6	jiayuan_item_yu2	jiayuan_item_yu2	售卖可获得钻石，有几率获得体力，升级后奖励提高。	6	1	2
+1037	小龙虾 Lv.7	jiayuan_item_yu2	jiayuan_item_yu2	售卖可获得钻石，有几率获得体力，升级后奖励提高。	6	1	2
+1038	小龙虾 Lv.8	jiayuan_item_yu2	jiayuan_item_yu2	售卖可获得钻石，有几率获得体力，升级后奖励提高。	6	1	2
+1039	小龙虾 Lv.9	jiayuan_item_yu2	jiayuan_item_yu2	售卖可获得钻石，有几率获得体力，升级后奖励提高。	6	1	2
+1040	小龙虾 Lv.10	jiayuan_item_yu2	jiayuan_item_yu2	售卖可获得钻石，有几率获得体力，升级后奖励提高。	6	1	2
+1041	河蚌 Lv.1	jiayuan_item_yu4	jiayuan_item_yu4	售卖可获得钻石，有几率获得成就点，升级后奖励提高。	6	1	2
+1042	河蚌 Lv.2	jiayuan_item_yu4	jiayuan_item_yu4	售卖可获得钻石，有几率获得成就点，升级后奖励提高。	6	1	2
+1043	河蚌 Lv.3	jiayuan_item_yu4	jiayuan_item_yu4	售卖可获得钻石，有几率获得成就点，升级后奖励提高。	6	1	2
+1044	河蚌 Lv.4	jiayuan_item_yu4	jiayuan_item_yu4	售卖可获得钻石，有几率获得成就点，升级后奖励提高。	6	1	2
+1045	河蚌 Lv.5	jiayuan_item_yu4	jiayuan_item_yu4	售卖可获得钻石，有几率获得成就点，升级后奖励提高。	6	1	2
+1046	河蚌 Lv.6	jiayuan_item_yu4	jiayuan_item_yu4	售卖可获得钻石，有几率获得成就点，升级后奖励提高。	6	1	2
+1047	河蚌 Lv.7	jiayuan_item_yu4	jiayuan_item_yu4	售卖可获得钻石，有几率获得成就点，升级后奖励提高。	6	1	2
+1048	河蚌 Lv.8	jiayuan_item_yu4	jiayuan_item_yu4	售卖可获得钻石，有几率获得成就点，升级后奖励提高。	6	1	2
+1049	河蚌 Lv.9	jiayuan_item_yu4	jiayuan_item_yu4	售卖可获得钻石，有几率获得成就点，升级后奖励提高。	6	1	2
+1050	河蚌 Lv.10	jiayuan_item_yu4	jiayuan_item_yu4	售卖可获得钻石，有几率获得成就点，升级后奖励提高。	6	1	2
+2011	种植可收获1级水仙	jiayuan_item_zhongzi2	jiayuan_zhiwu_shuijian_3	水仙种子 Lv.1	7	1	3
+2012	种植可收获2级水仙	jiayuan_item_zhongzi2	jiayuan_zhiwu_shuijian_3	水仙种子 Lv.2	7	1	3
+2013	种植可收获3级水仙	jiayuan_item_zhongzi2	jiayuan_zhiwu_shuijian_3	水仙种子 Lv.3	7	1	3
+2014	种植可收获4级水仙	jiayuan_item_zhongzi2	jiayuan_zhiwu_shuijian_3	水仙种子 Lv.4	7	1	3
+2015	种植可收获5级水仙	jiayuan_item_zhongzi2	jiayuan_zhiwu_shuijian_3	水仙种子 Lv.5	7	1	3
+2016	种植可收获6级水仙	jiayuan_item_zhongzi2	jiayuan_zhiwu_shuijian_3	水仙种子 Lv.6	7	1	3
+2017	种植可收获7级水仙	jiayuan_item_zhongzi2	jiayuan_zhiwu_shuijian_3	水仙种子 Lv.7	7	1	3
+2018	种植可收获8级水仙	jiayuan_item_zhongzi2	jiayuan_zhiwu_shuijian_3	水仙种子 Lv.8	7	1	3
+2019	种植可收获9级水仙	jiayuan_item_zhongzi2	jiayuan_zhiwu_shuijian_3	水仙种子 Lv.9	7	1	3
+2020	种植可收获10级水仙	jiayuan_item_zhongzi2	jiayuan_zhiwu_shuijian_3	水仙种子 Lv.10	7	1	3
+2021	种植可收获1级君子兰	jiayuan_item_hua3	jiayuan_zhiwu_junzilan_3	君子兰种子 Lv.1	7	1	3
+2022	种植可收获2级君子兰	jiayuan_item_hua3	jiayuan_zhiwu_junzilan_3	君子兰种子 Lv.2	7	1	3
+2023	种植可收获3级君子兰	jiayuan_item_hua3	jiayuan_zhiwu_junzilan_3	君子兰种子 Lv.3	7	1	3
+2024	种植可收获4级君子兰	jiayuan_item_hua3	jiayuan_zhiwu_junzilan_3	君子兰种子 Lv.4	7	1	3
+2025	种植可收获5级君子兰	jiayuan_item_hua3	jiayuan_zhiwu_junzilan_3	君子兰种子 Lv.5	7	1	3
+2026	种植可收获6级君子兰	jiayuan_item_hua3	jiayuan_zhiwu_junzilan_3	君子兰种子 Lv.6	7	1	3
+2027	种植可收获7级君子兰	jiayuan_item_hua3	jiayuan_zhiwu_junzilan_3	君子兰种子 Lv.7	7	1	3
+2028	种植可收获8级君子兰	jiayuan_item_hua3	jiayuan_zhiwu_junzilan_3	君子兰种子 Lv.8	7	1	3
+2029	种植可收获9级君子兰	jiayuan_item_hua3	jiayuan_zhiwu_junzilan_3	君子兰种子 Lv.9	7	1	3
+2030	种植可收获10级君子兰	jiayuan_item_hua3	jiayuan_zhiwu_junzilan_3	君子兰种子 Lv.10	7	1	3
+2031	种植可收获1级芦荟	jiayuan_item_hua4	jiayuan_zhiwu_luhui_3	芦荟种子 Lv.1	7	1	3
+2032	种植可收获2级芦荟	jiayuan_item_hua4	jiayuan_zhiwu_luhui_3	芦荟种子 Lv.2	7	1	3
+2033	种植可收获3级芦荟	jiayuan_item_hua4	jiayuan_zhiwu_luhui_3	芦荟种子 Lv.3	7	1	3
+2034	种植可收获4级芦荟	jiayuan_item_hua4	jiayuan_zhiwu_luhui_3	芦荟种子 Lv.4	7	1	3
+2035	种植可收获5级芦荟	jiayuan_item_hua4	jiayuan_zhiwu_luhui_3	芦荟种子 Lv.5	7	1	3
+2036	种植可收获6级芦荟	jiayuan_item_hua4	jiayuan_zhiwu_luhui_3	芦荟种子 Lv.6	7	1	3
+2037	种植可收获7级芦荟	jiayuan_item_hua4	jiayuan_zhiwu_luhui_3	芦荟种子 Lv.7	7	1	3
+2038	种植可收获8级芦荟	jiayuan_item_hua4	jiayuan_zhiwu_luhui_3	芦荟种子 Lv.8	7	1	3
+2039	种植可收获9级芦荟	jiayuan_item_hua4	jiayuan_zhiwu_luhui_3	芦荟种子 Lv.9	7	1	3
+2040	种植可收获10级芦荟	jiayuan_item_hua4	jiayuan_zhiwu_luhui_3	芦荟种子 Lv.10	7	1	3
+2041	种植可收获1级蔷薇	jiayuan_item_hua1	jiayuan_zhiwu_qiangwei_3	蔷薇种子 Lv.1	7	1	3
+2042	种植可收获2级蔷薇	jiayuan_item_hua1	jiayuan_zhiwu_qiangwei_3	蔷薇种子 Lv.2	7	1	3
+2043	种植可收获3级蔷薇	jiayuan_item_hua1	jiayuan_zhiwu_qiangwei_3	蔷薇种子 Lv.3	7	1	3
+2044	种植可收获4级蔷薇	jiayuan_item_hua1	jiayuan_zhiwu_qiangwei_3	蔷薇种子 Lv.4	7	1	3
+2045	种植可收获5级蔷薇	jiayuan_item_hua1	jiayuan_zhiwu_qiangwei_3	蔷薇种子 Lv.5	7	1	3
+2046	种植可收获6级蔷薇	jiayuan_item_hua1	jiayuan_zhiwu_qiangwei_3	蔷薇种子 Lv.6	7	1	3
+2047	种植可收获7级蔷薇	jiayuan_item_hua1	jiayuan_zhiwu_qiangwei_3	蔷薇种子 Lv.7	7	1	3
+2048	种植可收获8级蔷薇	jiayuan_item_hua1	jiayuan_zhiwu_qiangwei_3	蔷薇种子 Lv.8	7	1	3
+2049	种植可收获9级蔷薇	jiayuan_item_hua1	jiayuan_zhiwu_qiangwei_3	蔷薇种子 Lv.9	7	1	3
+2050	种植可收获10级蔷薇	jiayuan_item_hua1	jiayuan_zhiwu_qiangwei_3	蔷薇种子 Lv.10	7	1	3
+3011	水仙 Lv.1	jiayuan_zhiwu_shuijian_3	jiayuan_zhiwu_shuijian_3	售卖可获得金币，有几率获得钻石，升级后奖励提高。	7	1	3
+3012	水仙 Lv.2	jiayuan_zhiwu_shuijian_3	jiayuan_zhiwu_shuijian_3	售卖可获得金币，有几率获得钻石，升级后奖励提高。	7	1	3
+3013	水仙 Lv.3	jiayuan_zhiwu_shuijian_3	jiayuan_zhiwu_shuijian_3	售卖可获得金币，有几率获得钻石，升级后奖励提高。	7	1	3
+3014	水仙 Lv.4	jiayuan_zhiwu_shuijian_3	jiayuan_zhiwu_shuijian_3	售卖可获得金币，有几率获得钻石，升级后奖励提高。	7	1	3
+3015	水仙 Lv.5	jiayuan_zhiwu_shuijian_3	jiayuan_zhiwu_shuijian_3	售卖可获得金币，有几率获得钻石，升级后奖励提高。	7	1	3
+3016	水仙 Lv.6	jiayuan_zhiwu_shuijian_3	jiayuan_zhiwu_shuijian_3	售卖可获得金币，有几率获得钻石，升级后奖励提高。	7	1	3
+3017	水仙 Lv.7	jiayuan_zhiwu_shuijian_3	jiayuan_zhiwu_shuijian_3	售卖可获得金币，有几率获得钻石，升级后奖励提高。	7	1	3
+3018	水仙 Lv.8	jiayuan_zhiwu_shuijian_3	jiayuan_zhiwu_shuijian_3	售卖可获得金币，有几率获得钻石，升级后奖励提高。	7	1	3
+3019	水仙 Lv.9	jiayuan_zhiwu_shuijian_3	jiayuan_zhiwu_shuijian_3	售卖可获得金币，有几率获得钻石，升级后奖励提高。	7	1	3
+3020	水仙 Lv.10	jiayuan_zhiwu_shuijian_3	jiayuan_zhiwu_shuijian_3	售卖可获得金币，有几率获得钻石，升级后奖励提高。	7	1	3
+3021	君子兰 Lv.1	jiayuan_zhiwu_junzilan_3	jiayuan_zhiwu_junzilan_3	售卖可获得金币，有几率获得经验，升级后奖励提高。	7	1	3
+3022	君子兰 Lv.2	jiayuan_zhiwu_junzilan_3	jiayuan_zhiwu_junzilan_3	售卖可获得金币，有几率获得经验，升级后奖励提高。	7	1	3
+3023	君子兰 Lv.3	jiayuan_zhiwu_junzilan_3	jiayuan_zhiwu_junzilan_3	售卖可获得金币，有几率获得经验，升级后奖励提高。	7	1	3
+3024	君子兰 Lv.4	jiayuan_zhiwu_junzilan_3	jiayuan_zhiwu_junzilan_3	售卖可获得金币，有几率获得经验，升级后奖励提高。	7	1	3
+3025	君子兰 Lv.5	jiayuan_zhiwu_junzilan_3	jiayuan_zhiwu_junzilan_3	售卖可获得金币，有几率获得经验，升级后奖励提高。	7	1	3
+3026	君子兰 Lv.6	jiayuan_zhiwu_junzilan_3	jiayuan_zhiwu_junzilan_3	售卖可获得金币，有几率获得经验，升级后奖励提高。	7	1	3
+3027	君子兰 Lv.7	jiayuan_zhiwu_junzilan_3	jiayuan_zhiwu_junzilan_3	售卖可获得金币，有几率获得经验，升级后奖励提高。	7	1	3
+3028	君子兰 Lv.8	jiayuan_zhiwu_junzilan_3	jiayuan_zhiwu_junzilan_3	售卖可获得金币，有几率获得经验，升级后奖励提高。	7	1	3
+3029	君子兰 Lv.9	jiayuan_zhiwu_junzilan_3	jiayuan_zhiwu_junzilan_3	售卖可获得金币，有几率获得经验，升级后奖励提高。	7	1	3
+3030	君子兰 Lv.10	jiayuan_zhiwu_junzilan_3	jiayuan_zhiwu_junzilan_3	售卖可获得金币，有几率获得经验，升级后奖励提高。	7	1	3
+3031	芦荟 Lv.1	jiayuan_zhiwu_luhui_3	jiayuan_zhiwu_luhui_3	售卖可获得金币，有几率获得体力，升级后奖励提高。	7	1	3
+3032	芦荟 Lv.2	jiayuan_zhiwu_luhui_3	jiayuan_zhiwu_luhui_3	售卖可获得金币，有几率获得体力，升级后奖励提高。	7	1	3
+3033	芦荟 Lv.3	jiayuan_zhiwu_luhui_3	jiayuan_zhiwu_luhui_3	售卖可获得金币，有几率获得体力，升级后奖励提高。	7	1	3
+3034	芦荟 Lv.4	jiayuan_zhiwu_luhui_3	jiayuan_zhiwu_luhui_3	售卖可获得金币，有几率获得体力，升级后奖励提高。	7	1	3
+3035	芦荟 Lv.5	jiayuan_zhiwu_luhui_3	jiayuan_zhiwu_luhui_3	售卖可获得金币，有几率获得体力，升级后奖励提高。	7	1	3
+3036	芦荟 Lv.6	jiayuan_zhiwu_luhui_3	jiayuan_zhiwu_luhui_3	售卖可获得金币，有几率获得体力，升级后奖励提高。	7	1	3
+3037	芦荟 Lv.7	jiayuan_zhiwu_luhui_3	jiayuan_zhiwu_luhui_3	售卖可获得金币，有几率获得体力，升级后奖励提高。	7	1	3
+3038	芦荟 Lv.8	jiayuan_zhiwu_luhui_3	jiayuan_zhiwu_luhui_3	售卖可获得金币，有几率获得体力，升级后奖励提高。	7	1	3
+3039	芦荟 Lv.9	jiayuan_zhiwu_luhui_3	jiayuan_zhiwu_luhui_3	售卖可获得金币，有几率获得体力，升级后奖励提高。	7	1	3
+3040	芦荟 Lv.10	jiayuan_zhiwu_luhui_3	jiayuan_zhiwu_luhui_3	售卖可获得金币，有几率获得体力，升级后奖励提高。	7	1	3
+3041	蔷薇 Lv.1	jiayuan_zhiwu_qiangwei_3	jiayuan_zhiwu_qiangwei_3	售卖可获得金币，有几率获得成就点，升级后奖励提高。	7	1	3
+3042	蔷薇 Lv.2	jiayuan_zhiwu_qiangwei_3	jiayuan_zhiwu_qiangwei_3	售卖可获得金币，有几率获得成就点，升级后奖励提高。	7	1	3
+3043	蔷薇 Lv.3	jiayuan_zhiwu_qiangwei_3	jiayuan_zhiwu_qiangwei_3	售卖可获得金币，有几率获得成就点，升级后奖励提高。	7	1	3
+3044	蔷薇 Lv.4	jiayuan_zhiwu_qiangwei_3	jiayuan_zhiwu_qiangwei_3	售卖可获得金币，有几率获得成就点，升级后奖励提高。	7	1	3
+3045	蔷薇 Lv.5	jiayuan_zhiwu_qiangwei_3	jiayuan_zhiwu_qiangwei_3	售卖可获得金币，有几率获得成就点，升级后奖励提高。	7	1	3
+3046	蔷薇 Lv.6	jiayuan_zhiwu_qiangwei_3	jiayuan_zhiwu_qiangwei_3	售卖可获得金币，有几率获得成就点，升级后奖励提高。	7	1	3
+3047	蔷薇 Lv.7	jiayuan_zhiwu_qiangwei_3	jiayuan_zhiwu_qiangwei_3	售卖可获得金币，有几率获得成就点，升级后奖励提高。	7	1	3
+3048	蔷薇 Lv.8	jiayuan_zhiwu_qiangwei_3	jiayuan_zhiwu_qiangwei_3	售卖可获得金币，有几率获得成就点，升级后奖励提高。	7	1	3
+3049	蔷薇 Lv.9	jiayuan_zhiwu_qiangwei_3	jiayuan_zhiwu_qiangwei_3	售卖可获得金币，有几率获得成就点，升级后奖励提高。	7	1	3
+3050	蔷薇 Lv.10	jiayuan_zhiwu_qiangwei_3	jiayuan_zhiwu_qiangwei_3	售卖可获得金币，有几率获得成就点，升级后奖励提高。	7	1	3
