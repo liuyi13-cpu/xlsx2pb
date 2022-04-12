@@ -33,10 +33,10 @@ int main(int argc, char* argv[]) {
     string store_path = "/Users/liuyi/xlsx2pb/source/res/store";
     string store_suffix = "bytes";
 #else
-    string xlsx_input = "E:/project/b3/GameClientTools/xlsx2pb/source/res/excel";
-    string tsv_path = "E:/project/b3/GameClientTools/xlsx2pb/source/res/tsv";
-    string proto_path = "E:/project/b3/GameClientTools/xlsx2pb/source/res/proto";
-    string store_path = "E:/project/b3/GameClientTools/xlsx2pb/source/res/store";
+    string xlsx_input = "E:/project/github/xlsx2pb/source/res/excel";
+    string tsv_path = "E:/project/github/xlsx2pb/source/res/tsv";
+    string proto_path = "E:/project/github/xlsx2pb/source/res/proto";
+    string store_path = "E:/project/github/xlsx2pb/source/res/store";
     string store_suffix = "bytes";
 #endif
 
