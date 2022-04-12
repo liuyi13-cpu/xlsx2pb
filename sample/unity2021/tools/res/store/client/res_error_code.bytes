@@ -1,28 +1,0 @@
-
-+RET_SERVER_PARAMS_ERROR参数错误 
-"
-RET_GM_ERRORGM指令无效 
-,RET_GM_CMD_ERRORGM指令参数错误 
-0dRET_CURRENCY_COIN_NOT_ENOUGH钞票不足 
-3eRET_CURRENCY_DIAMOND_NOT_ENOUGH钻石不足 
-2fRET_CURRENCY_ENERGY_NOT_ENOUGH体力不足 
-=n#RET_HOMEWORLD_FISH_TIMES_NOT_ENOUGH钓鱼次数不足 
-Ao!RET_HOMEWORLD_MODULE_LEVEL_IS_MAX模块已达等级上限 
-:pRET_HOMEWORLD_MAX_STORE仓库已满，无法收获 
-1qRET_HOMEWORLD_SALE_NOT_ENOUGH商品不足 
-7rRET_HOMEWORLD_FISH_AD_CD钓鱼广告CD冷却中 
-:sRET_HOMEWORLD_CAT_NOT_IDLE宠物还没有准备好 
-<tRET_HOMEWORLD_CAT_NOT_GOHOME宠物奖励领取失败 
--xRET_SHOPSKILL_CD店铺技能冷却中 
-.yRET_SHOP_SKILL_NO_GUEST顾客不存在 
-=zRET_SHOP_NO_CLERK$员工不存在，自动补货失败 
-${RET_SHOP_NO_FIT店铺未装配
-"|RET_SHOP_LOCK店铺未解锁
-)}RET_SHOP_CLOSE当前店铺已关闭
-"~RET_SHOP_NO店铺不存在 
-'RET_SHOP_REPAIR店铺正在装修
-*�RET_SHOP_BUILDING店铺正在建造
-8�RET_SHOP_FULL$客人已满，请扩建客人空间
-#�RET_SHOP_NO_SLOT没有槽位
-0�RET_SHOP_WRONG_STATUS店铺状态错误 
-N�RET_GUESTCOLLECT_REWARD_GOT*顾客会员等级提升时可领取奖励 
