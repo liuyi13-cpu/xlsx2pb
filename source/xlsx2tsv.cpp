@@ -21,6 +21,8 @@ xlsx2tsv::~xlsx2tsv() {
 int xlsx2tsv::Export(const string& xlsx_input, const string& tsv_output) {
     has_error_ = false;
     for (const auto& p: filesystem::recursive_directory_iterator(xlsx_input)) {
+        if (p.is_directory()) continue;
+
         auto filePath = p.path();
         if (CommonUtil::stringStartsWith(filePath.filename().string(), "~$")) continue; // 打开的文档
         if (filePath.extension() == ".xlsx") {
@@ -28,12 +30,25 @@ int xlsx2tsv::Export(const string& xlsx_input, const string& tsv_output) {
             if (check_md5_same(tsv_output, filePath)) {
                 LOG_INFO("convert xlsx:" << filePath.filename() << " MD5 is same");
             } else {
-                ExportOne(tsv_output, p.path());
+                ExportOneXlsx(tsv_output, filePath);
                 if (!has_error_){
                     save_md5(tsv_output, filePath);
                 }
                 LOG_INFO("convert xlsx:" << filePath.filename() << " OK!!!");
             }
+        } else if (filePath.extension() == ".csv") {
+            LOG_INFO("convert csv:"  << filePath.filename());
+            if (check_md5_same(tsv_output, filePath)) {
+                LOG_INFO("convert csv:" << filePath.filename() << " MD5 is same");
+            } else {
+                ExportOneCsv(tsv_output, filePath);
+                if (!has_error_){
+                    save_md5(tsv_output, filePath);
+                }
+                LOG_INFO("convert csv:" << filePath.filename() << " OK!!!");
+            }
+        } else {
+            LOG_ERROR("不支持的文件格式" << filePath);
         }
     }
 
@@ -41,7 +56,7 @@ int xlsx2tsv::Export(const string& xlsx_input, const string& tsv_output) {
     return 0;
 }
 
-void xlsx2tsv::ExportOne(const string& tsv_output, const filesystem::path& filePath) {
+void xlsx2tsv::ExportOneXlsx(const string& tsv_output, const filesystem::path& filePath) {
     XLDocument doc;
     doc.open(filePath.string());
     auto wks = doc.workbook().sheet(1).get<XLWorksheet>();
@@ -90,6 +105,35 @@ void xlsx2tsv::ExportOne(const string& tsv_output, const filesystem::path& fileP
     ofstream outfile;
     outfile.open(outputFilePath.c_str(), ios::out | ios::trunc);
     outfile << oss.str();
+    outfile.close();
+}
+
+void xlsx2tsv::ExportOneCsv(const string& tsv_output, const filesystem::path& filePath) {
+    ifstream infile;
+    infile.open(filePath.c_str(), ios::in);
+    if (!infile.good()) return;
+
+#if _WIN32
+    auto fileName = filePath.stem().wstring();
+    auto outputFilePath = CommonUtil::string2wstring(tsv_output) + L"/" + fileName + L".tsv";
+#else
+    auto fileName = filePath.stem().string();
+    auto outputFilePath = tsv_output + "/" + fileName + ".tsv";
+#endif
+    ofstream outfile;
+    outfile.open(outputFilePath.c_str(), ios::out | ios::trunc);
+
+    string line;
+    auto is_first = true;
+    while(getline(infile, line)) {
+        if (is_first) {
+            line = regex_replace(line, regex("\uFEFF"), ""); // 去UTF-8的BOM
+            is_first = false;
+        }
+        line = regex_replace(line, regex(","), "\t");
+        outfile << line << "\n";
+    }
+    infile.close();
     outfile.close();
 }
 
