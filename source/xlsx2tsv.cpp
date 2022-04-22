@@ -20,32 +20,40 @@ xlsx2tsv::~xlsx2tsv() {
 
 int xlsx2tsv::Export(const string& xlsx_input, const string& tsv_output) {
     has_error_ = false;
+    unordered_set<string> sameNameCheck;
     for (const auto& p: filesystem::recursive_directory_iterator(xlsx_input)) {
         if (p.is_directory()) continue;
 
         auto filePath = p.path();
-        if (CommonUtil::stringStartsWith(filePath.filename().string(), "~$")) continue; // 打开的文档
+        auto fileName = filePath.filename();
+        if (CommonUtil::stringStartsWith(fileName.string(), "~$")) continue; // 打开的文档
+        if (sameNameCheck.contains(fileName.string())) {
+            LOG_ERROR("[表名字重复]" << fileName);
+            has_error_ = true;
+            break;
+        }
+        sameNameCheck.insert(fileName.string());
         if (filePath.extension() == ".xlsx") {
-            LOG_INFO("convert xlsx:"  << filePath.filename());
+            LOG_INFO("convert xlsx:"  << fileName);
             if (check_md5_same(tsv_output, filePath)) {
-                LOG_INFO("convert xlsx:" << filePath.filename() << " MD5 is same");
+                LOG_INFO("convert xlsx:" << fileName << " MD5 is same");
             } else {
                 ExportOneXlsx(tsv_output, filePath);
                 if (!has_error_){
                     save_md5(tsv_output, filePath);
                 }
-                LOG_INFO("convert xlsx:" << filePath.filename() << " OK!!!");
+                LOG_INFO("convert xlsx:" << fileName << " OK!!!");
             }
         } else if (filePath.extension() == ".csv") {
-            LOG_INFO("convert csv:"  << filePath.filename());
+            LOG_INFO("convert csv:"  << fileName);
             if (check_md5_same(tsv_output, filePath)) {
-                LOG_INFO("convert csv:" << filePath.filename() << " MD5 is same");
+                LOG_INFO("convert csv:" << fileName << " MD5 is same");
             } else {
                 ExportOneCsv(tsv_output, filePath);
                 if (!has_error_){
                     save_md5(tsv_output, filePath);
                 }
-                LOG_INFO("convert csv:" << filePath.filename() << " OK!!!");
+                LOG_INFO("convert csv:" << fileName << " OK!!!");
             }
         } else {
             LOG_ERROR("不支持的文件格式" << filePath);

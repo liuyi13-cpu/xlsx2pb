@@ -7,3 +7,7 @@ excel导表工具，excel to pb
 **注意事项**  
 1.csv格式必须是utf-8 BOM格式，否则csv用excel打开中文会乱码  
 2.读取csv的时候需要把BOM字段"\uFEFF"去掉
+
+2022.4.22
+---------
+增加重名检测
