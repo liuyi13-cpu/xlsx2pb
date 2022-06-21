@@ -135,13 +135,16 @@ void xlsxcheck::ParseValue(string& key,  const string& value, Map<string, XlsxVa
         (*processed_value_map)[key] = *xlsxValue;
     }
     XlsxValue* xlsxValue = &processed_value_map->at(key);
+
     if (!CommonUtil::stringContain(value, "&")) {
-        xlsxValue->add_value(value);
+        auto value1 = Check(key, value);
+        xlsxValue->add_value(value1);
     } else {
         // &分离数组支持
         auto list = CommonUtil::stringSplit(value, "&");
         for (auto& sub : list) {
-            xlsxValue->add_value(sub);
+            auto sub1 = Check(key, sub);
+            xlsxValue->add_value(sub1);
         }
     }
 }
@@ -171,6 +174,18 @@ void xlsxcheck::ParseStructValue(string& key1,  const string& value, Map<string,
 
     XlsxValue* structValue = (XlsxValue*) &xlsxValue->struct_value().at(sub_key);
     structValue->add_value(value);
+}
+
+string xlsxcheck::Check(const string& key, const string& value) {
+#ifdef FP
+    if (CommonUtil::stringEndsWith(key, "_FP")) {
+        float ret;
+        if (safe_strtof(value, &ret)) {
+            return to_string((int)(ret * 10000));
+        }
+    }
+#endif
+    return value;
 }
 
 #pragma region 检表

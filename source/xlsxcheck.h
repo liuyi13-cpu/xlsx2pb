@@ -38,6 +38,8 @@ private:
     void ParseValue(string& key, const string& value, google::protobuf::Map<string, XlsxValue>* processed_value_map);
     void ParseStructValue(string& key, const string& value, google::protobuf::Map<string, XlsxValue>* processed_value_map);
 
+    string Check(const string& key, const string& value);
+
     void CheckLabel();
     void LoadCheckLabel(const string& proto_path);
 

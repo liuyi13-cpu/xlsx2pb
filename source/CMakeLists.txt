@@ -13,6 +13,8 @@ elseif(UNIX)
     add_definitions(-DUNIX)
 endif (WIN32)
 
+add_definitions(-DFP)
+
 MESSAGE(STATUS "operation system is ${CMAKE_SYSTEM}")
 
 if (WIN32)
