@@ -17,7 +17,11 @@ bool CommonUtil::stringStartsWith(const string& s, const string& sub) {
 }
 
 bool CommonUtil::stringEndsWith(const string& s, const string& sub) {
-    return s.rfind(sub) == s.length() - sub.length();
+    int index = s.rfind(sub);
+    if (index > 0) {
+        return index == s.length() - sub.length();
+    }
+    return false;
 }
 
 bool CommonUtil::stringContain(const string& s, const string& sub) {
